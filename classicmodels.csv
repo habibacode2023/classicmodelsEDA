@@ -1,0 +1,1001 @@
+productCode,productName,priceEach,quantityOrdered,productLine,orderNumber,orderdate,customerNumber,customerName,city,country,buyPrice,MSRP
+S18_1749,"1917 Grand Touring Sedan",136.00,30,"Vintage Cars",10100,2003-01-06,363,"Online Diecast Creations Co.",Nashua,USA,86.70,170.00
+S18_2248,"1911 Ford Town Car",55.09,50,"Vintage Cars",10100,2003-01-06,363,"Online Diecast Creations Co.",Nashua,USA,33.30,60.54
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",75.46,22,"Vintage Cars",10100,2003-01-06,363,"Online Diecast Creations Co.",Nashua,USA,43.26,92.03
+S24_3969,"1936 Mercedes Benz 500k Roadster",35.29,49,"Vintage Cars",10100,2003-01-06,363,"Online Diecast Creations Co.",Nashua,USA,21.75,41.03
+S18_2325,"1932 Model A Ford J-Coupe",108.06,25,"Vintage Cars",10101,2003-01-09,128,"Blauer See Auto, Co.",Frankfurt,Germany,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",167.06,26,"Vintage Cars",10101,2003-01-09,128,"Blauer See Auto, Co.",Frankfurt,Germany,72.56,168.75
+S24_1937,"1939 Chevrolet Deluxe Coupe",32.53,45,"Vintage Cars",10101,2003-01-09,128,"Blauer See Auto, Co.",Frankfurt,Germany,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",44.35,46,"Vintage Cars",10101,2003-01-09,128,"Blauer See Auto, Co.",Frankfurt,Germany,20.61,44.80
+S18_1342,"1937 Lincoln Berline",95.55,39,"Vintage Cars",10102,2003-01-10,181,"Vitachrome Inc.",NYC,USA,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",43.13,41,"Vintage Cars",10102,2003-01-10,181,"Vitachrome Inc.",NYC,USA,24.26,53.91
+S10_1949,"1952 Alpine Renault 1300",214.30,26,"Classic Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,98.58,214.30
+S10_4962,"1962 LanciaA Delta 16V",119.67,42,"Classic Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,103.42,147.74
+S12_1666,"1958 Setra Bus",121.64,27,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",94.50,35,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,58.33,116.67
+S18_2432,"1926 Ford Fire Engine",58.34,22,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,24.92,60.77
+S18_2949,"1913 Ford Model T Speedster",92.19,27,"Vintage Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",61.84,35,"Vintage Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",86.92,25,"Vintage Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",86.31,46,"Vintage Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,57.54,99.21
+S18_4600,"1940s Ford truck",98.07,36,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",40.75,41,"Vintage Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,23.14,50.31
+S24_2300,"1962 Volkswagen Microbus",107.34,36,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,61.34,127.79
+S24_4258,"1936 Chrysler Airflow",88.62,25,"Vintage Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,57.46,97.39
+S32_1268,"1980’s GM Manhattan Express",92.46,31,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,53.93,96.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",63.35,45,"Trucks and Buses",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,33.61,64.64
+S700_2824,"1982 Camaro Z28",94.07,42,"Classic Cars",10103,2003-01-29,121,"Baane Mini Imports",Stavern,Norway,46.53,101.15
+S12_3148,"1969 Corvair Monza",131.44,34,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,89.14,151.08
+S12_4473,"1957 Chevy Pickup",111.39,41,"Trucks and Buses",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",135.90,24,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",122.73,29,"Trucks and Buses",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,74.86,122.73
+S18_3232,"1992 Ferrari 360 Spider red",165.95,23,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,77.90,169.34
+S18_4027,"1970 Triumph Spitfire",119.20,38,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,91.92,143.62
+S24_1444,"1970 Dodge Coronet",52.02,35,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,32.37,57.80
+S24_2840,"1958 Chevy Corvette Limited Edition",30.41,44,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,15.91,35.36
+S24_4048,"1992 Porsche Cayenne Turbo Silver",106.45,26,"Classic Cars",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,69.78,118.28
+S32_2509,"1954 Greyhound Scenicruiser",51.95,35,"Trucks and Buses",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,25.98,54.11
+S32_3207,"1950's Chicago Surface Lines Streetcar",56.55,49,Trains,10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,26.72,62.14
+S50_1392,"Diamond T620 Semi-Skirted Tanker",114.59,33,"Trucks and Buses",10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,68.29,115.75
+S50_1514,"1962 City of Detroit Streetcar",53.31,32,Trains,10104,2003-01-31,141,"Euro+ Shopping Channel",Madrid,Spain,37.49,58.58
+S10_4757,"1972 Alfa Romeo GTA",127.84,50,"Classic Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,85.68,136.00
+S12_1108,"2001 Ferrari Enzo",205.72,41,"Classic Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,95.59,207.80
+S12_3891,"1969 Ford Falcon",141.88,29,"Classic Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,83.05,173.02
+S18_3140,"1903 Ford Model A",136.59,22,"Vintage Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,68.30,136.59
+S18_3259,"Collectable Wooden Train",87.73,38,Trains,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,67.56,100.84
+S18_4522,"1904 Buick Runabout",75.48,41,"Vintage Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,52.66,87.77
+S24_2011,"18th century schooner",117.97,43,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,82.34,122.89
+S24_3151,"1912 Ford Model T Delivery Wagon",73.46,44,"Vintage Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,46.91,88.51
+S24_3816,"1940 Ford Delivery Sedan",75.47,50,"Vintage Cars",10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,48.64,83.86
+S700_1138,"The Schooner Bluenose",54.00,41,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,34.00,66.67
+S700_1938,"The Mayflower",86.61,29,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,43.30,86.61
+S700_2610,"The USS Constitution Ship",60.72,31,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,33.97,72.28
+S700_3505,"The Titanic",92.16,39,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,51.09,100.17
+S700_3962,"The Queen Mary",99.31,22,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,53.63,99.31
+S72_3212,"Pont Yacht",44.77,25,Ships,10105,2003-02-11,145,"Danish Wholesale Imports",Kobenhavn,Denmark,33.30,54.60
+S18_1662,"1980s Black Hawk Helicopter",134.04,36,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,77.27,157.69
+S18_2581,"P-51-D Mustang",81.10,34,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,49.00,84.48
+S18_3029,"1999 Yamaha Speed Boat",80.86,41,Ships,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",94.22,41,"Vintage Cars",10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,64.58,105.87
+S24_1785,"1928 British Royal Navy Airplane",107.23,28,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,66.74,109.42
+S24_2841,"1900s Vintage Bi-Plane",65.77,49,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",55.89,31,"Vintage Cars",10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,26.30,65.75
+S24_3949,"Corsair F4U ( Bird Cage)",55.96,50,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,29.34,68.24
+S24_4278,"1900s Vintage Tri-Plane",71.00,26,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,36.23,72.45
+S32_4289,"1928 Ford Phaeton Deluxe",65.35,33,"Vintage Cars",10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,33.02,68.79
+S50_1341,"1930 Buick Marquette Phaeton",35.78,39,"Vintage Cars",10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,27.06,43.64
+S700_1691,"American Airlines: B767-300",91.34,31,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,51.15,91.34
+S700_2047,"HMS Bounty",85.09,30,Ships,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,39.83,90.52
+S700_2466,"America West Airlines B757-200",99.72,34,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,68.80,99.72
+S700_2834,"ATA: B757-300",113.90,32,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,59.33,118.65
+S700_3167,"F/A 18 Hornet 1/72",76.00,44,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,54.40,80.00
+S700_4002,"American Airlines: MD-11S",70.33,48,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,36.27,74.03
+S72_1253,"Boeing X-32A JSF",43.70,48,Planes,10106,2003-02-17,278,"Rovelli Gifts",Bergamo,Italy,32.77,49.66
+S10_1678,"1969 Harley Davidson Ultimate Chopper",81.35,30,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",105.86,39,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",172.36,27,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,91.02,193.66
+S12_2823,"2002 Suzuki XREO",122.00,21,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,66.27,150.62
+S18_2625,"1936 Harley Davidson El Knucklehead",52.70,29,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,24.23,60.57
+S24_1578,"1997 BMW R 1100 S",96.92,25,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,60.86,112.70
+S24_2000,"1960 BSA Gold Star DBD34",73.12,38,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,37.32,76.17
+S32_1374,"1997 BMW F650 ST",88.90,20,Motorcycles,10107,2003-02-24,131,"Land of Toys Inc.",NYC,USA,66.92,99.89
+S12_1099,"1968 Ford Mustang",165.38,33,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,95.34,194.57
+S12_3380,"1968 Dodge Charger",96.30,45,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",75.81,39,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,31.92,79.80
+S12_4675,"1969 Dodge Charger",107.10,36,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,58.73,115.16
+S18_1889,"1948 Porsche 356-A Roadster",67.76,38,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,53.90,77.00
+S18_3278,"1969 Dodge Super Bee",73.17,26,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",132.29,29,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,73.49,146.99
+S18_3782,"1957 Vespa GS150",52.84,43,Motorcycles,10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,32.95,62.17
+S18_4721,"1957 Corvette Convertible",139.87,44,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,69.93,148.80
+S24_2360,"1982 Ducati 900 Monster",64.41,35,Motorcycles,10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,47.10,69.26
+S24_3371,"1971 Alpine Renault 1600s",60.01,30,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,38.58,61.23
+S24_3856,"1956 Porsche 356A Coupe",132.00,40,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,98.30,140.43
+S24_4620,"1961 Chevrolet Impala",67.10,31,"Classic Cars",10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,32.33,80.84
+S32_2206,"1982 Ducati 996 R",36.21,27,Motorcycles,10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",87.76,31,Motorcycles,10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",74.85,34,Motorcycles,10108,2003-03-03,385,"Cruz & Sons Co.","Makati City",Philippines,34.17,81.36
+S18_1129,"1993 Mazda RX-7",117.48,26,"Classic Cars",10109,2003-03-10,486,"Motor Mint Distributors Inc.",Philadelphia,USA,83.51,141.54
+S18_1984,"1995 Honda Civic",137.98,38,"Classic Cars",10109,2003-03-10,486,"Motor Mint Distributors Inc.",Philadelphia,USA,93.89,142.25
+S18_2870,"1999 Indy 500 Monte Carlo SS",126.72,26,"Classic Cars",10109,2003-03-10,486,"Motor Mint Distributors Inc.",Philadelphia,USA,56.76,132.00
+S18_3232,"1992 Ferrari 360 Spider red",160.87,46,"Classic Cars",10109,2003-03-10,486,"Motor Mint Distributors Inc.",Philadelphia,USA,77.90,169.34
+S18_3685,"1948 Porsche Type 356 Roadster",125.74,47,"Classic Cars",10109,2003-03-10,486,"Motor Mint Distributors Inc.",Philadelphia,USA,62.16,141.28
+S24_2972,"1982 Lamborghini Diablo",32.10,29,"Classic Cars",10109,2003-03-10,486,"Motor Mint Distributors Inc.",Philadelphia,USA,16.24,37.76
+S18_1589,"1965 Aston Martin DB5",118.22,37,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,65.96,124.44
+S18_1749,"1917 Grand Touring Sedan",153.00,42,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,86.70,170.00
+S18_2248,"1911 Ford Town Car",51.46,32,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",115.69,33,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",163.69,31,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,72.56,168.75
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",81.91,28,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",62.00,42,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",72.02,36,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,49.24,73.49
+S24_1628,"1966 Shelby Cobra 427 S/C",43.27,29,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,29.18,50.31
+S24_1937,"1939 Chevrolet Deluxe Coupe",28.88,20,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",40.77,39,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,20.61,44.80
+S24_2766,"1949 Jaguar XK 120",82.69,43,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,47.25,90.87
+S24_2887,"1952 Citroen-15CV",112.74,46,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",80.47,27,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,50.51,85.61
+S24_3432,"2002 Chevy Corvette",96.37,37,"Classic Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,62.11,107.08
+S24_3969,"1936 Mercedes Benz 500k Roadster",35.29,48,"Vintage Cars",10110,2003-03-18,187,"AV Stores, Co.",Manchester,UK,21.75,41.03
+S18_1342,"1937 Lincoln Berline",87.33,33,"Vintage Cars",10111,2003-03-25,129,"Mini Wheels Co.","San Francisco",USA,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",48.52,48,"Vintage Cars",10111,2003-03-25,129,"Mini Wheels Co.","San Francisco",USA,24.26,53.91
+S18_2957,"1934 Ford V8 Coupe",53.09,28,"Vintage Cars",10111,2003-03-25,129,"Mini Wheels Co.","San Francisco",USA,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",94.25,43,"Vintage Cars",10111,2003-03-25,129,"Mini Wheels Co.","San Francisco",USA,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",91.27,39,"Vintage Cars",10111,2003-03-25,129,"Mini Wheels Co.","San Francisco",USA,57.54,99.21
+S24_4258,"1936 Chrysler Airflow",85.70,26,"Vintage Cars",10111,2003-03-25,129,"Mini Wheels Co.","San Francisco",USA,57.46,97.39
+S10_1949,"1952 Alpine Renault 1300",197.16,29,"Classic Cars",10112,2003-03-24,144,"Volvo Model Replicas, Co",Luleå,Sweden,98.58,214.30
+S18_2949,"1913 Ford Model T Speedster",85.10,23,"Vintage Cars",10112,2003-03-24,144,"Volvo Model Replicas, Co",Luleå,Sweden,60.78,101.31
+S12_1666,"1958 Setra Bus",121.64,21,"Trucks and Buses",10113,2003-03-26,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",101.50,49,"Trucks and Buses",10113,2003-03-26,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,58.33,116.67
+S18_4668,"1939 Cadillac Limousine",43.27,50,"Vintage Cars",10113,2003-03-26,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,23.14,50.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",58.82,23,"Trucks and Buses",10113,2003-03-26,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,33.61,64.64
+S10_4962,"1962 LanciaA Delta 16V",128.53,31,"Classic Cars",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,103.42,147.74
+S18_2319,"1964 Mercedes Tour Bus",106.78,39,"Trucks and Buses",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,74.86,122.73
+S18_2432,"1926 Ford Fire Engine",53.48,45,"Trucks and Buses",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,24.92,60.77
+S18_3232,"1992 Ferrari 360 Spider red",169.34,48,"Classic Cars",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,77.90,169.34
+S18_4600,"1940s Ford truck",105.34,41,"Trucks and Buses",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,84.76,121.08
+S24_2300,"1962 Volkswagen Microbus",102.23,21,"Trucks and Buses",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,61.34,127.79
+S24_2840,"1958 Chevy Corvette Limited Edition",28.64,24,"Classic Cars",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,15.91,35.36
+S32_1268,"1980’s GM Manhattan Express",88.61,32,"Trucks and Buses",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,53.93,96.31
+S32_2509,"1954 Greyhound Scenicruiser",43.83,28,"Trucks and Buses",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,25.98,54.11
+S700_2824,"1982 Camaro Z28",82.94,42,"Classic Cars",10114,2003-04-01,172,"La Corne D'abondance, Co.",Paris,France,46.53,101.15
+S12_4473,"1957 Chevy Pickup",111.39,46,"Trucks and Buses",10115,2003-04-04,424,"Classic Legends Inc.",NYC,USA,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",140.81,46,"Classic Cars",10115,2003-04-04,424,"Classic Legends Inc.",NYC,USA,101.51,163.73
+S24_1444,"1970 Dodge Coronet",56.64,47,"Classic Cars",10115,2003-04-04,424,"Classic Legends Inc.",NYC,USA,32.37,57.80
+S24_4048,"1992 Porsche Cayenne Turbo Silver",106.45,44,"Classic Cars",10115,2003-04-04,424,"Classic Legends Inc.",NYC,USA,69.78,118.28
+S50_1392,"Diamond T620 Semi-Skirted Tanker",100.70,27,"Trucks and Buses",10115,2003-04-04,424,"Classic Legends Inc.",NYC,USA,68.29,115.75
+S32_3207,"1950's Chicago Surface Lines Streetcar",60.28,27,Trains,10116,2003-04-11,381,"Royale Belge",Charleroi,Belgium,26.72,62.14
+S12_1108,"2001 Ferrari Enzo",195.33,33,"Classic Cars",10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,95.59,207.80
+S12_3148,"1969 Corvair Monza",148.06,43,"Classic Cars",10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,89.14,151.08
+S12_3891,"1969 Ford Falcon",173.02,39,"Classic Cars",10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,83.05,173.02
+S18_3140,"1903 Ford Model A",121.57,26,"Vintage Cars",10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,68.30,136.59
+S18_3259,"Collectable Wooden Train",81.68,21,Trains,10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,67.56,100.84
+S18_4027,"1970 Triumph Spitfire",122.08,22,"Classic Cars",10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,91.92,143.62
+S18_4522,"1904 Buick Runabout",73.73,23,"Vintage Cars",10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,52.66,87.77
+S24_2011,"18th century schooner",119.20,41,Ships,10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,82.34,122.89
+S50_1514,"1962 City of Detroit Streetcar",55.65,21,Trains,10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,37.49,58.58
+S700_1938,"The Mayflower",75.35,38,Ships,10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,43.30,86.61
+S700_3962,"The Queen Mary",89.38,45,Ships,10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,53.63,99.31
+S72_3212,"Pont Yacht",52.42,50,Ships,10117,2003-04-16,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,33.30,54.60
+S700_3505,"The Titanic",86.15,36,Ships,10118,2003-04-21,216,"Enaco Distributors",Barcelona,Spain,51.09,100.17
+S10_4757,"1972 Alfa Romeo GTA",112.88,46,"Classic Cars",10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,85.68,136.00
+S18_1662,"1980s Black Hawk Helicopter",151.38,43,Planes,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,77.27,157.69
+S18_3029,"1999 Yamaha Speed Boat",74.84,21,Ships,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",95.28,27,"Vintage Cars",10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,64.58,105.87
+S24_2841,"1900s Vintage Bi-Plane",64.40,41,Planes,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,34.25,68.51
+S24_3151,"1912 Ford Model T Delivery Wagon",72.58,35,"Vintage Cars",10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,46.91,88.51
+S24_3420,"1937 Horch 930V Limousine",63.12,20,"Vintage Cars",10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,26.30,65.75
+S24_3816,"1940 Ford Delivery Sedan",82.18,35,"Vintage Cars",10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,48.64,83.86
+S24_3949,"Corsair F4U ( Bird Cage)",62.10,28,Planes,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,29.34,68.24
+S700_1138,"The Schooner Bluenose",57.34,25,Ships,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,34.00,66.67
+S700_2047,"HMS Bounty",74.23,29,Ships,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,39.83,90.52
+S700_2610,"The USS Constitution Ship",67.22,38,Ships,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,33.97,72.28
+S700_4002,"American Airlines: MD-11S",63.67,26,Planes,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,36.27,74.03
+S72_1253,"Boeing X-32A JSF",40.22,28,Planes,10119,2003-04-28,382,"Salzburg Collectables",Salzburg,Austria,32.77,49.66
+S10_2016,"1996 Moto Guzzi 1100i",118.94,29,Motorcycles,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",158.80,46,Motorcycles,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,91.02,193.66
+S18_2581,"P-51-D Mustang",82.79,29,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,49.00,84.48
+S18_2625,"1936 Harley Davidson El Knucklehead",57.54,46,Motorcycles,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,24.23,60.57
+S24_1578,"1997 BMW R 1100 S",110.45,35,Motorcycles,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,60.86,112.70
+S24_1785,"1928 British Royal Navy Airplane",93.01,39,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,66.74,109.42
+S24_2000,"1960 BSA Gold Star DBD34",72.36,34,Motorcycles,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,37.32,76.17
+S24_4278,"1900s Vintage Tri-Plane",71.73,29,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,36.23,72.45
+S32_1374,"1997 BMW F650 ST",94.90,22,Motorcycles,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,66.92,99.89
+S32_4289,"1928 Ford Phaeton Deluxe",68.79,29,"Vintage Cars",10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,33.02,68.79
+S50_1341,"1930 Buick Marquette Phaeton",41.46,49,"Vintage Cars",10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,27.06,43.64
+S700_1691,"American Airlines: B767-300",91.34,47,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,51.15,91.34
+S700_2466,"America West Airlines B757-200",81.77,24,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,68.80,99.72
+S700_2834,"ATA: B757-300",106.79,24,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,59.33,118.65
+S700_3167,"F/A 18 Hornet 1/72",72.00,43,Planes,10120,2003-04-29,114,"Australian Collectors, Co.",Melbourne,Australia,54.40,80.00
+S10_1678,"1969 Harley Davidson Ultimate Chopper",86.13,34,Motorcycles,10121,2003-05-07,353,"Reims Collectables",Reims,France,48.81,95.70
+S12_2823,"2002 Suzuki XREO",126.52,50,Motorcycles,10121,2003-05-07,353,"Reims Collectables",Reims,France,66.27,150.62
+S24_2360,"1982 Ducati 900 Monster",58.18,32,Motorcycles,10121,2003-05-07,353,"Reims Collectables",Reims,France,47.10,69.26
+S32_4485,"1974 Ducati 350 Mk3 Desmo",95.93,25,Motorcycles,10121,2003-05-07,353,"Reims Collectables",Reims,France,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",72.41,44,Motorcycles,10121,2003-05-07,353,"Reims Collectables",Reims,France,34.17,81.36
+S12_1099,"1968 Ford Mustang",155.66,42,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,95.34,194.57
+S12_3380,"1968 Dodge Charger",113.92,37,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",65.44,32,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,31.92,79.80
+S12_4675,"1969 Dodge Charger",104.80,20,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,58.73,115.16
+S18_1129,"1993 Mazda RX-7",114.65,34,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,83.51,141.54
+S18_1889,"1948 Porsche 356-A Roadster",62.37,43,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,53.90,77.00
+S18_1984,"1995 Honda Civic",113.80,31,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,93.89,142.25
+S18_3232,"1992 Ferrari 360 Spider red",137.17,25,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,77.90,169.34
+S18_3278,"1969 Dodge Super Bee",69.15,21,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",133.76,21,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,73.49,146.99
+S18_3782,"1957 Vespa GS150",59.06,35,Motorcycles,10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,32.95,62.17
+S18_4721,"1957 Corvette Convertible",145.82,28,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,69.93,148.80
+S24_2972,"1982 Lamborghini Diablo",34.74,39,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,16.24,37.76
+S24_3371,"1971 Alpine Renault 1600s",50.82,34,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,38.58,61.23
+S24_3856,"1956 Porsche 356A Coupe",136.22,43,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,98.30,140.43
+S24_4620,"1961 Chevrolet Impala",67.10,29,"Classic Cars",10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,32.33,80.84
+S32_2206,"1982 Ducati 996 R",33.79,31,Motorcycles,10122,2003-05-08,350,"Marseille Mini Autos",Marseille,France,24.14,40.23
+S18_1589,"1965 Aston Martin DB5",120.71,26,"Classic Cars",10123,2003-05-20,103,"Atelier graphique",Nantes,France,65.96,124.44
+S18_2870,"1999 Indy 500 Monte Carlo SS",114.84,46,"Classic Cars",10123,2003-05-20,103,"Atelier graphique",Nantes,France,56.76,132.00
+S18_3685,"1948 Porsche Type 356 Roadster",117.26,34,"Classic Cars",10123,2003-05-20,103,"Atelier graphique",Nantes,France,62.16,141.28
+S24_1628,"1966 Shelby Cobra 427 S/C",43.27,50,"Classic Cars",10123,2003-05-20,103,"Atelier graphique",Nantes,France,29.18,50.31
+S18_1749,"1917 Grand Touring Sedan",153.00,21,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,86.70,170.00
+S18_2248,"1911 Ford Town Car",58.12,42,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",111.87,42,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,58.48,127.13
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",75.46,36,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",66.28,23,"Classic Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",62.47,22,"Classic Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,49.24,73.49
+S24_1937,"1939 Chevrolet Deluxe Coupe",30.53,45,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",36.29,22,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,20.61,44.80
+S24_2766,"1949 Jaguar XK 120",74.51,32,"Classic Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,47.25,90.87
+S24_2887,"1952 Citroen-15CV",93.95,25,"Classic Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",76.19,49,"Classic Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,50.51,85.61
+S24_3432,"2002 Chevy Corvette",101.73,43,"Classic Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,62.11,107.08
+S24_3969,"1936 Mercedes Benz 500k Roadster",36.11,46,"Vintage Cars",10124,2003-05-21,112,"Signal Gift Stores","Las Vegas",USA,21.75,41.03
+S18_1342,"1937 Lincoln Berline",89.38,32,"Vintage Cars",10125,2003-05-21,114,"Australian Collectors, Co.",Melbourne,Australia,60.62,102.74
+S18_2795,"1928 Mercedes-Benz SSK",138.38,34,"Vintage Cars",10125,2003-05-21,114,"Australian Collectors, Co.",Melbourne,Australia,72.56,168.75
+S10_1949,"1952 Alpine Renault 1300",205.73,38,"Classic Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,98.58,214.30
+S10_4962,"1962 LanciaA Delta 16V",122.62,22,"Classic Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,103.42,147.74
+S12_1666,"1958 Setra Bus",135.30,21,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",116.67,38,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,58.33,116.67
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",51.21,42,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,24.26,53.91
+S18_2432,"1926 Ford Fire Engine",51.05,43,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,24.92,60.77
+S18_2949,"1913 Ford Model T Speedster",93.21,31,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",61.84,46,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",93.20,30,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",94.25,38,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,57.54,99.21
+S18_4600,"1940s Ford truck",102.92,50,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",47.29,43,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,23.14,50.31
+S24_2300,"1962 Volkswagen Microbus",122.68,27,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,61.34,127.79
+S24_4258,"1936 Chrysler Airflow",83.76,34,"Vintage Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,57.46,97.39
+S32_1268,"1980’s GM Manhattan Express",82.83,43,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,53.93,96.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",62.05,26,"Trucks and Buses",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,33.61,64.64
+S700_2824,"1982 Camaro Z28",97.10,45,"Classic Cars",10126,2003-05-28,458,"Corrida Auto Replicas, Ltd",Madrid,Spain,46.53,101.15
+S12_1108,"2001 Ferrari Enzo",193.25,46,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,95.59,207.80
+S12_3148,"1969 Corvair Monza",140.50,46,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,89.14,151.08
+S12_3891,"1969 Ford Falcon",169.56,42,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,83.05,173.02
+S12_4473,"1957 Chevy Pickup",100.73,24,"Trucks and Buses",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",140.81,45,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",114.14,45,"Trucks and Buses",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,74.86,122.73
+S18_3232,"1992 Ferrari 360 Spider red",149.02,22,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,77.90,169.34
+S18_4027,"1970 Triumph Spitfire",126.39,25,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,91.92,143.62
+S24_1444,"1970 Dodge Coronet",50.86,20,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,32.37,57.80
+S24_2840,"1958 Chevy Corvette Limited Edition",34.30,39,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,15.91,35.36
+S24_4048,"1992 Porsche Cayenne Turbo Silver",107.63,20,"Classic Cars",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,69.78,118.28
+S32_2509,"1954 Greyhound Scenicruiser",46.53,45,"Trucks and Buses",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,25.98,54.11
+S32_3207,"1950's Chicago Surface Lines Streetcar",60.90,29,Trains,10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,26.72,62.14
+S50_1392,"Diamond T620 Semi-Skirted Tanker",111.12,46,"Trucks and Buses",10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,68.29,115.75
+S50_1514,"1962 City of Detroit Streetcar",55.65,46,Trains,10127,2003-06-03,151,"Muscle Machine Inc",NYC,USA,37.49,58.58
+S18_3140,"1903 Ford Model A",120.20,41,"Vintage Cars",10128,2003-06-06,141,"Euro+ Shopping Channel",Madrid,Spain,68.30,136.59
+S18_3259,"Collectable Wooden Train",80.67,41,Trains,10128,2003-06-06,141,"Euro+ Shopping Channel",Madrid,Spain,67.56,100.84
+S18_4522,"1904 Buick Runabout",77.24,43,"Vintage Cars",10128,2003-06-06,141,"Euro+ Shopping Channel",Madrid,Spain,52.66,87.77
+S700_1938,"The Mayflower",72.75,32,Ships,10128,2003-06-06,141,"Euro+ Shopping Channel",Madrid,Spain,43.30,86.61
+S10_4757,"1972 Alfa Romeo GTA",123.76,33,"Classic Cars",10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,85.68,136.00
+S24_2011,"18th century schooner",113.06,45,Ships,10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,82.34,122.89
+S24_3151,"1912 Ford Model T Delivery Wagon",81.43,41,"Vintage Cars",10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,46.91,88.51
+S24_3816,"1940 Ford Delivery Sedan",76.31,50,"Vintage Cars",10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,48.64,83.86
+S700_1138,"The Schooner Bluenose",58.67,31,Ships,10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,34.00,66.67
+S700_2610,"The USS Constitution Ship",72.28,45,Ships,10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,33.97,72.28
+S700_3505,"The Titanic",90.15,42,Ships,10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,51.09,100.17
+S700_3962,"The Queen Mary",94.34,30,Ships,10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,53.63,99.31
+S72_3212,"Pont Yacht",44.23,32,Ships,10129,2003-06-12,324,"Stylish Desk Decors, Co.",London,UK,33.30,54.60
+S18_3029,"1999 Yamaha Speed Boat",68.82,40,Ships,10130,2003-06-16,198,"Auto-Moto Classics Inc.",Brickhaven,USA,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",99.52,33,"Vintage Cars",10130,2003-06-16,198,"Auto-Moto Classics Inc.",Brickhaven,USA,64.58,105.87
+S18_1662,"1980s Black Hawk Helicopter",141.92,21,Planes,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,77.27,157.69
+S24_2841,"1900s Vintage Bi-Plane",60.97,35,Planes,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",52.60,29,"Vintage Cars",10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,26.30,65.75
+S24_3949,"Corsair F4U ( Bird Cage)",54.59,50,Planes,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,29.34,68.24
+S700_2047,"HMS Bounty",76.94,22,Ships,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,39.83,90.52
+S700_2466,"America West Airlines B757-200",86.76,40,Planes,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,68.80,99.72
+S700_4002,"American Airlines: MD-11S",63.67,26,Planes,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,36.27,74.03
+S72_1253,"Boeing X-32A JSF",40.22,21,Planes,10131,2003-06-16,447,"Gift Ideas Corp.",Glendale,USA,32.77,49.66
+S700_3167,"F/A 18 Hornet 1/72",80.00,36,Planes,10132,2003-06-25,323,"Down Under Souveniers, Inc","Auckland  ","New Zealand",54.40,80.00
+S18_2581,"P-51-D Mustang",80.26,49,Planes,10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,49.00,84.48
+S24_1785,"1928 British Royal Navy Airplane",109.42,41,Planes,10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,66.74,109.42
+S24_4278,"1900s Vintage Tri-Plane",61.58,46,Planes,10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,36.23,72.45
+S32_1374,"1997 BMW F650 ST",80.91,23,Motorcycles,10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,66.92,99.89
+S32_4289,"1928 Ford Phaeton Deluxe",67.41,49,"Vintage Cars",10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,33.02,68.79
+S50_1341,"1930 Buick Marquette Phaeton",37.09,27,"Vintage Cars",10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,27.06,43.64
+S700_1691,"American Airlines: B767-300",76.73,24,Planes,10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,51.15,91.34
+S700_2834,"ATA: B757-300",115.09,27,Planes,10133,2003-06-27,141,"Euro+ Shopping Channel",Madrid,Spain,59.33,118.65
+S10_1678,"1969 Harley Davidson Ultimate Chopper",90.92,41,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",116.56,27,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",187.85,31,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,91.02,193.66
+S12_2823,"2002 Suzuki XREO",131.04,20,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,66.27,150.62
+S18_2625,"1936 Harley Davidson El Knucklehead",51.48,30,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,24.23,60.57
+S24_1578,"1997 BMW R 1100 S",94.67,35,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,60.86,112.70
+S24_2000,"1960 BSA Gold Star DBD34",75.41,43,Motorcycles,10134,2003-07-01,250,"Lyon Souveniers",Paris,France,37.32,76.17
+S12_1099,"1968 Ford Mustang",173.17,42,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,95.34,194.57
+S12_3380,"1968 Dodge Charger",110.39,48,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",72.62,24,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,31.92,79.80
+S12_4675,"1969 Dodge Charger",103.64,29,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,58.73,115.16
+S18_1889,"1948 Porsche 356-A Roadster",66.99,48,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,53.90,77.00
+S18_3278,"1969 Dodge Super Bee",65.94,45,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",139.64,42,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,73.49,146.99
+S18_3782,"1957 Vespa GS150",49.74,45,Motorcycles,10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,32.95,62.17
+S18_4721,"1957 Corvette Convertible",133.92,31,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,69.93,148.80
+S24_2360,"1982 Ducati 900 Monster",67.18,29,Motorcycles,10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,47.10,69.26
+S24_2972,"1982 Lamborghini Diablo",34.36,20,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,16.24,37.76
+S24_3371,"1971 Alpine Renault 1600s",52.05,27,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,38.58,61.23
+S24_3856,"1956 Porsche 356A Coupe",139.03,47,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,98.30,140.43
+S24_4620,"1961 Chevrolet Impala",76.80,23,"Classic Cars",10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,32.33,80.84
+S32_2206,"1982 Ducati 996 R",38.62,33,Motorcycles,10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",91.85,30,Motorcycles,10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",78.92,44,Motorcycles,10135,2003-07-02,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,34.17,81.36
+S18_1129,"1993 Mazda RX-7",117.48,25,"Classic Cars",10136,2003-07-04,242,"Alpha Cognac",Toulouse,France,83.51,141.54
+S18_1984,"1995 Honda Civic",120.91,36,"Classic Cars",10136,2003-07-04,242,"Alpha Cognac",Toulouse,France,93.89,142.25
+S18_3232,"1992 Ferrari 360 Spider red",169.34,41,"Classic Cars",10136,2003-07-04,242,"Alpha Cognac",Toulouse,France,77.90,169.34
+S18_1589,"1965 Aston Martin DB5",115.73,44,"Classic Cars",10137,2003-07-10,353,"Reims Collectables",Reims,France,65.96,124.44
+S18_2870,"1999 Indy 500 Monte Carlo SS",110.88,37,"Classic Cars",10137,2003-07-10,353,"Reims Collectables",Reims,France,56.76,132.00
+S18_3685,"1948 Porsche Type 356 Roadster",118.68,31,"Classic Cars",10137,2003-07-10,353,"Reims Collectables",Reims,France,62.16,141.28
+S24_1628,"1966 Shelby Cobra 427 S/C",40.25,26,"Classic Cars",10137,2003-07-10,353,"Reims Collectables",Reims,France,29.18,50.31
+S18_1749,"1917 Grand Touring Sedan",149.60,33,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",86.70,170.00
+S18_2248,"1911 Ford Town Car",51.46,22,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",114.42,38,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",58.48,127.13
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",79.15,47,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",43.26,92.03
+S18_4933,"1957 Ford Thunderbird",64.86,23,"Classic Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",59.53,45,"Classic Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",49.24,73.49
+S24_1937,"1939 Chevrolet Deluxe Coupe",33.19,22,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",38.53,33,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",20.61,44.80
+S24_2766,"1949 Jaguar XK 120",73.60,28,"Classic Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",47.25,90.87
+S24_2887,"1952 Citroen-15CV",96.30,30,"Classic Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",77.05,49,"Classic Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",50.51,85.61
+S24_3432,"2002 Chevy Corvette",99.58,21,"Classic Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",62.11,107.08
+S24_3969,"1936 Mercedes Benz 500k Roadster",32.82,29,"Vintage Cars",10138,2003-07-07,496,"Kelly's Gift Shop","Auckland  ","New Zealand",21.75,41.03
+S18_1342,"1937 Lincoln Berline",89.38,31,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",52.83,49,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,24.26,53.91
+S18_2795,"1928 Mercedes-Benz SSK",151.88,41,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,72.56,168.75
+S18_2949,"1913 Ford Model T Speedster",91.18,46,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",52.47,20,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",101.58,20,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",81.35,30,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,57.54,99.21
+S24_4258,"1936 Chrysler Airflow",93.49,29,"Vintage Cars",10139,2003-07-16,282,"Souveniers And Things Co.",Chatswood,Australia,57.46,97.39
+S10_1949,"1952 Alpine Renault 1300",186.44,37,"Classic Cars",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,98.58,214.30
+S10_4962,"1962 LanciaA Delta 16V",131.49,26,"Classic Cars",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,103.42,147.74
+S12_1666,"1958 Setra Bus",118.90,38,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",95.67,32,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,58.33,116.67
+S18_2432,"1926 Ford Fire Engine",51.05,46,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,24.92,60.77
+S18_4600,"1940s Ford truck",100.50,40,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",40.25,29,"Vintage Cars",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,23.14,50.31
+S24_2300,"1962 Volkswagen Microbus",118.84,47,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,61.34,127.79
+S32_1268,"1980’s GM Manhattan Express",87.64,26,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,53.93,96.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",62.05,28,"Trucks and Buses",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,33.61,64.64
+S700_2824,"1982 Camaro Z28",101.15,36,"Classic Cars",10140,2003-07-24,161,"Technics Stores Inc.",Burlingame,USA,46.53,101.15
+S12_4473,"1957 Chevy Pickup",114.95,21,"Trucks and Buses",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",160.46,39,"Classic Cars",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",103.09,47,"Trucks and Buses",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,74.86,122.73
+S18_3232,"1992 Ferrari 360 Spider red",143.94,34,"Classic Cars",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,77.90,169.34
+S24_1444,"1970 Dodge Coronet",50.86,20,"Classic Cars",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,32.37,57.80
+S24_2840,"1958 Chevy Corvette Limited Edition",32.18,21,"Classic Cars",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,15.91,35.36
+S24_4048,"1992 Porsche Cayenne Turbo Silver",104.09,40,"Classic Cars",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,69.78,118.28
+S32_2509,"1954 Greyhound Scenicruiser",53.03,24,"Trucks and Buses",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,25.98,54.11
+S50_1392,"Diamond T620 Semi-Skirted Tanker",94.92,44,"Trucks and Buses",10141,2003-08-01,334,"Suominen Souveniers",Espoo,Finland,68.29,115.75
+S12_1108,"2001 Ferrari Enzo",166.24,33,"Classic Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,95.59,207.80
+S12_3148,"1969 Corvair Monza",140.50,33,"Classic Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,89.14,151.08
+S12_3891,"1969 Ford Falcon",167.83,46,"Classic Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,83.05,173.02
+S18_3140,"1903 Ford Model A",129.76,47,"Vintage Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,68.30,136.59
+S18_3259,"Collectable Wooden Train",95.80,22,Trains,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,67.56,100.84
+S18_4027,"1970 Triumph Spitfire",122.08,24,"Classic Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,91.92,143.62
+S18_4522,"1904 Buick Runabout",79.87,24,"Vintage Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,52.66,87.77
+S24_2011,"18th century schooner",114.29,33,Ships,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,82.34,122.89
+S24_3151,"1912 Ford Model T Delivery Wagon",74.35,49,"Vintage Cars",10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,46.91,88.51
+S32_3207,"1950's Chicago Surface Lines Streetcar",60.90,42,Trains,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,26.72,62.14
+S50_1514,"1962 City of Detroit Streetcar",56.24,42,Trains,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,37.49,58.58
+S700_1138,"The Schooner Bluenose",55.34,41,Ships,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,34.00,66.67
+S700_1938,"The Mayflower",77.08,43,Ships,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,43.30,86.61
+S700_3505,"The Titanic",92.16,21,Ships,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,51.09,100.17
+S700_3962,"The Queen Mary",91.37,38,Ships,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,53.63,99.31
+S72_3212,"Pont Yacht",46.96,39,Ships,10142,2003-08-08,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,33.30,54.60
+S10_4757,"1972 Alfa Romeo GTA",133.28,49,"Classic Cars",10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,85.68,136.00
+S18_1662,"1980s Black Hawk Helicopter",126.15,32,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,77.27,157.69
+S18_3029,"1999 Yamaha Speed Boat",70.54,46,Ships,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",99.52,34,"Vintage Cars",10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,64.58,105.87
+S24_2841,"1900s Vintage Bi-Plane",63.71,27,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",59.83,33,"Vintage Cars",10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,26.30,65.75
+S24_3816,"1940 Ford Delivery Sedan",74.64,23,"Vintage Cars",10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,48.64,83.86
+S24_3949,"Corsair F4U ( Bird Cage)",55.96,28,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,29.34,68.24
+S50_1341,"1930 Buick Marquette Phaeton",34.91,34,"Vintage Cars",10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,27.06,43.64
+S700_1691,"American Airlines: B767-300",86.77,36,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,51.15,91.34
+S700_2047,"HMS Bounty",87.80,26,Ships,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,39.83,90.52
+S700_2466,"America West Airlines B757-200",79.78,26,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,68.80,99.72
+S700_2610,"The USS Constitution Ship",69.39,31,Ships,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,33.97,72.28
+S700_3167,"F/A 18 Hornet 1/72",70.40,28,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,54.40,80.00
+S700_4002,"American Airlines: MD-11S",65.15,34,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,36.27,74.03
+S72_1253,"Boeing X-32A JSF",49.66,37,Planes,10143,2003-08-10,320,"Mini Creations Ltd.","New Bedford",USA,32.77,49.66
+S32_4289,"1928 Ford Phaeton Deluxe",56.41,20,"Vintage Cars",10144,2003-08-13,381,"Royale Belge",Charleroi,Belgium,33.02,68.79
+S10_1678,"1969 Harley Davidson Ultimate Chopper",76.56,45,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",104.67,37,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",154.93,33,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,91.02,193.66
+S12_2823,"2002 Suzuki XREO",146.10,49,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,66.27,150.62
+S18_2581,"P-51-D Mustang",71.81,30,Planes,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,49.00,84.48
+S18_2625,"1936 Harley Davidson El Knucklehead",52.70,30,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,24.23,60.57
+S24_1578,"1997 BMW R 1100 S",103.68,43,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,60.86,112.70
+S24_1785,"1928 British Royal Navy Airplane",87.54,40,Planes,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,66.74,109.42
+S24_2000,"1960 BSA Gold Star DBD34",63.98,47,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,37.32,76.17
+S24_2360,"1982 Ducati 900 Monster",56.10,27,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,47.10,69.26
+S24_4278,"1900s Vintage Tri-Plane",71.73,33,Planes,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,36.23,72.45
+S32_1374,"1997 BMW F650 ST",99.89,33,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,66.92,99.89
+S32_2206,"1982 Ducati 996 R",39.43,31,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",95.93,27,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",73.22,38,Motorcycles,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,34.17,81.36
+S700_2834,"ATA: B757-300",113.90,20,Planes,10145,2003-08-25,205,Toys4GrownUps.com,Pasadena,USA,59.33,118.65
+S18_3782,"1957 Vespa GS150",60.30,47,Motorcycles,10146,2003-09-03,447,"Gift Ideas Corp.",Glendale,USA,32.95,62.17
+S18_4721,"1957 Corvette Convertible",130.94,29,"Classic Cars",10146,2003-09-03,447,"Gift Ideas Corp.",Glendale,USA,69.93,148.80
+S12_1099,"1968 Ford Mustang",161.49,48,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,95.34,194.57
+S12_3380,"1968 Dodge Charger",110.39,31,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",74.21,21,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,31.92,79.80
+S12_4675,"1969 Dodge Charger",97.89,33,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,58.73,115.16
+S18_1889,"1948 Porsche 356-A Roadster",70.84,26,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,53.90,77.00
+S18_3278,"1969 Dodge Super Bee",74.78,36,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",129.35,37,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,73.49,146.99
+S24_2972,"1982 Lamborghini Diablo",33.23,25,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,16.24,37.76
+S24_3371,"1971 Alpine Renault 1600s",48.98,30,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,38.58,61.23
+S24_3856,"1956 Porsche 356A Coupe",123.58,23,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,98.30,140.43
+S24_4620,"1961 Chevrolet Impala",72.76,31,"Classic Cars",10147,2003-09-05,379,"Collectables For Less Inc.",Brickhaven,USA,32.33,80.84
+S18_1129,"1993 Mazda RX-7",114.65,23,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,83.51,141.54
+S18_1589,"1965 Aston Martin DB5",108.26,47,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,65.96,124.44
+S18_1984,"1995 Honda Civic",136.56,25,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,93.89,142.25
+S18_2870,"1999 Indy 500 Monte Carlo SS",113.52,27,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,56.76,132.00
+S18_3232,"1992 Ferrari 360 Spider red",143.94,32,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,77.90,169.34
+S18_3685,"1948 Porsche Type 356 Roadster",135.63,28,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,62.16,141.28
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",83.75,34,"Vintage Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",66.28,29,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",65.41,25,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,49.24,73.49
+S24_1628,"1966 Shelby Cobra 427 S/C",46.29,47,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,29.18,50.31
+S24_2766,"1949 Jaguar XK 120",77.24,21,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,47.25,90.87
+S24_2887,"1952 Citroen-15CV",115.09,34,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",71.91,31,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,50.51,85.61
+S24_3432,"2002 Chevy Corvette",96.37,27,"Classic Cars",10148,2003-09-11,276,"Anna's Decorations, Ltd","North Sydney",Australia,62.11,107.08
+S18_1342,"1937 Lincoln Berline",87.33,50,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",48.52,30,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,24.26,53.91
+S18_1749,"1917 Grand Touring Sedan",156.40,34,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,86.70,170.00
+S18_2248,"1911 Ford Town Car",50.85,24,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",125.86,33,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",167.06,23,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,72.56,168.75
+S18_3320,"1917 Maxwell Touring Car",89.29,42,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,57.54,99.21
+S24_1937,"1939 Chevrolet Deluxe Coupe",31.20,36,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",39.87,49,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,20.61,44.80
+S24_3969,"1936 Mercedes Benz 500k Roadster",38.57,26,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,21.75,41.03
+S24_4258,"1936 Chrysler Airflow",90.57,20,"Vintage Cars",10149,2003-09-12,487,"Signal Collectibles Ltd.",Brisbane,USA,57.46,97.39
+S10_1949,"1952 Alpine Renault 1300",182.16,45,"Classic Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,98.58,214.30
+S10_4962,"1962 LanciaA Delta 16V",121.15,20,"Classic Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,103.42,147.74
+S12_1666,"1958 Setra Bus",135.30,30,"Trucks and Buses",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",95.67,34,"Trucks and Buses",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,58.33,116.67
+S18_2949,"1913 Ford Model T Speedster",93.21,47,"Vintage Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",56.21,30,"Vintage Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",97.39,26,"Vintage Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,60.74,104.72
+S18_4600,"1940s Ford truck",111.39,49,"Trucks and Buses",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",47.29,30,"Vintage Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,23.14,50.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",62.05,49,"Trucks and Buses",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,33.61,64.64
+S700_2824,"1982 Camaro Z28",95.08,20,"Classic Cars",10150,2003-09-19,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,46.53,101.15
+S12_4473,"1957 Chevy Pickup",114.95,24,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",152.27,43,"Classic Cars",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",106.78,49,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,74.86,122.73
+S18_2432,"1926 Ford Fire Engine",58.34,39,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,24.92,60.77
+S18_3232,"1992 Ferrari 360 Spider red",167.65,21,"Classic Cars",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,77.90,169.34
+S24_2300,"1962 Volkswagen Microbus",109.90,42,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,61.34,127.79
+S24_2840,"1958 Chevy Corvette Limited Edition",29.35,30,"Classic Cars",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,15.91,35.36
+S32_1268,"1980’s GM Manhattan Express",84.75,27,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,53.93,96.31
+S32_2509,"1954 Greyhound Scenicruiser",43.29,41,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,25.98,54.11
+S50_1392,"Diamond T620 Semi-Skirted Tanker",108.81,26,"Trucks and Buses",10151,2003-09-21,311,"Oulu Toy Supplies, Inc.",Oulu,Finland,68.29,115.75
+S18_4027,"1970 Triumph Spitfire",117.77,35,"Classic Cars",10152,2003-09-25,333,"Australian Gift Network, Co","South Brisbane",Australia,91.92,143.62
+S24_1444,"1970 Dodge Coronet",49.13,25,"Classic Cars",10152,2003-09-25,333,"Australian Gift Network, Co","South Brisbane",Australia,32.37,57.80
+S24_4048,"1992 Porsche Cayenne Turbo Silver",112.37,23,"Classic Cars",10152,2003-09-25,333,"Australian Gift Network, Co","South Brisbane",Australia,69.78,118.28
+S32_3207,"1950's Chicago Surface Lines Streetcar",57.17,33,Trains,10152,2003-09-25,333,"Australian Gift Network, Co","South Brisbane",Australia,26.72,62.14
+S12_1108,"2001 Ferrari Enzo",201.57,20,"Classic Cars",10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,95.59,207.80
+S12_3148,"1969 Corvair Monza",128.42,42,"Classic Cars",10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,89.14,151.08
+S12_3891,"1969 Ford Falcon",155.72,49,"Classic Cars",10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,83.05,173.02
+S18_3140,"1903 Ford Model A",125.66,31,"Vintage Cars",10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,68.30,136.59
+S18_3259,"Collectable Wooden Train",82.69,29,Trains,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,67.56,100.84
+S18_4522,"1904 Buick Runabout",82.50,22,"Vintage Cars",10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,52.66,87.77
+S24_2011,"18th century schooner",111.83,40,Ships,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,82.34,122.89
+S50_1514,"1962 City of Detroit Streetcar",53.31,31,Trains,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,37.49,58.58
+S700_1138,"The Schooner Bluenose",58.00,43,Ships,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,34.00,66.67
+S700_1938,"The Mayflower",80.55,31,Ships,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,43.30,86.61
+S700_3505,"The Titanic",87.15,50,Ships,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,51.09,100.17
+S700_3962,"The Queen Mary",85.41,20,Ships,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,53.63,99.31
+S72_3212,"Pont Yacht",51.87,50,Ships,10153,2003-09-28,141,"Euro+ Shopping Channel",Madrid,Spain,33.30,54.60
+S24_3151,"1912 Ford Model T Delivery Wagon",75.23,31,"Vintage Cars",10154,2003-10-02,219,"Boards & Toys Co.",Glendale,USA,46.91,88.51
+S700_2610,"The USS Constitution Ship",59.27,36,Ships,10154,2003-10-02,219,"Boards & Toys Co.",Glendale,USA,33.97,72.28
+S10_4757,"1972 Alfa Romeo GTA",129.20,32,"Classic Cars",10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,85.68,136.00
+S18_1662,"1980s Black Hawk Helicopter",138.77,38,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,77.27,157.69
+S18_3029,"1999 Yamaha Speed Boat",83.44,44,Ships,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",105.87,29,"Vintage Cars",10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,64.58,105.87
+S24_2841,"1900s Vintage Bi-Plane",62.34,23,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",56.55,34,"Vintage Cars",10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,26.30,65.75
+S24_3816,"1940 Ford Delivery Sedan",76.31,37,"Vintage Cars",10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,48.64,83.86
+S24_3949,"Corsair F4U ( Bird Cage)",58.69,44,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,29.34,68.24
+S700_2047,"HMS Bounty",89.61,32,Ships,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,39.83,90.52
+S700_2466,"America West Airlines B757-200",87.75,20,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,68.80,99.72
+S700_3167,"F/A 18 Hornet 1/72",76.80,43,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,54.40,80.00
+S700_4002,"American Airlines: MD-11S",70.33,44,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,36.27,74.03
+S72_1253,"Boeing X-32A JSF",49.16,34,Planes,10155,2003-10-06,186,"Toys of Finland, Co.",Helsinki,Finland,32.77,49.66
+S50_1341,"1930 Buick Marquette Phaeton",43.64,20,"Vintage Cars",10156,2003-10-08,141,"Euro+ Shopping Channel",Madrid,Spain,27.06,43.64
+S700_1691,"American Airlines: B767-300",77.64,48,Planes,10156,2003-10-08,141,"Euro+ Shopping Channel",Madrid,Spain,51.15,91.34
+S18_2581,"P-51-D Mustang",69.27,33,Planes,10157,2003-10-09,473,"Frau da Collezione",Milan,Italy,49.00,84.48
+S24_1785,"1928 British Royal Navy Airplane",89.72,40,Planes,10157,2003-10-09,473,"Frau da Collezione",Milan,Italy,66.74,109.42
+S24_4278,"1900s Vintage Tri-Plane",66.65,33,Planes,10157,2003-10-09,473,"Frau da Collezione",Milan,Italy,36.23,72.45
+S32_1374,"1997 BMW F650 ST",83.91,34,Motorcycles,10157,2003-10-09,473,"Frau da Collezione",Milan,Italy,66.92,99.89
+S32_4289,"1928 Ford Phaeton Deluxe",56.41,28,"Vintage Cars",10157,2003-10-09,473,"Frau da Collezione",Milan,Italy,33.02,68.79
+S700_2834,"ATA: B757-300",109.16,48,Planes,10157,2003-10-09,473,"Frau da Collezione",Milan,Italy,59.33,118.65
+S24_2000,"1960 BSA Gold Star DBD34",67.79,22,Motorcycles,10158,2003-10-10,121,"Baane Mini Imports",Stavern,Norway,37.32,76.17
+S10_1678,"1969 Harley Davidson Ultimate Chopper",81.35,49,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",101.10,37,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",170.42,22,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,91.02,193.66
+S12_1099,"1968 Ford Mustang",188.73,41,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,95.34,194.57
+S12_2823,"2002 Suzuki XREO",131.04,38,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,66.27,150.62
+S12_3990,"1970 Plymouth Hemi Cuda",67.03,24,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,31.92,79.80
+S18_2625,"1936 Harley Davidson El Knucklehead",51.48,42,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,24.23,60.57
+S18_3278,"1969 Dodge Super Bee",66.74,21,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",129.35,25,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,73.49,146.99
+S18_3782,"1957 Vespa GS150",54.71,21,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,32.95,62.17
+S18_4721,"1957 Corvette Convertible",142.85,32,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,69.93,148.80
+S24_1578,"1997 BMW R 1100 S",100.30,44,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,60.86,112.70
+S24_2360,"1982 Ducati 900 Monster",67.18,27,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,47.10,69.26
+S24_3371,"1971 Alpine Renault 1600s",49.60,50,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,38.58,61.23
+S24_4620,"1961 Chevrolet Impala",80.84,23,"Classic Cars",10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,32.33,80.84
+S32_2206,"1982 Ducati 996 R",39.43,35,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",86.74,23,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",78.11,31,Motorcycles,10159,2003-10-10,321,"Corporate Gift Ideas Co.","San Francisco",USA,34.17,81.36
+S12_3380,"1968 Dodge Charger",96.30,46,"Classic Cars",10160,2003-10-11,347,"Men 'R' US Retailers, Ltd.","Los Angeles",USA,75.16,117.44
+S12_4675,"1969 Dodge Charger",93.28,50,"Classic Cars",10160,2003-10-11,347,"Men 'R' US Retailers, Ltd.","Los Angeles",USA,58.73,115.16
+S18_1889,"1948 Porsche 356-A Roadster",70.84,38,"Classic Cars",10160,2003-10-11,347,"Men 'R' US Retailers, Ltd.","Los Angeles",USA,53.90,77.00
+S18_3232,"1992 Ferrari 360 Spider red",140.55,20,"Classic Cars",10160,2003-10-11,347,"Men 'R' US Retailers, Ltd.","Los Angeles",USA,77.90,169.34
+S24_2972,"1982 Lamborghini Diablo",30.59,42,"Classic Cars",10160,2003-10-11,347,"Men 'R' US Retailers, Ltd.","Los Angeles",USA,16.24,37.76
+S24_3856,"1956 Porsche 356A Coupe",130.60,35,"Classic Cars",10160,2003-10-11,347,"Men 'R' US Retailers, Ltd.","Los Angeles",USA,98.30,140.43
+S18_1129,"1993 Mazda RX-7",121.72,28,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,83.51,141.54
+S18_1589,"1965 Aston Martin DB5",102.04,43,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,65.96,124.44
+S18_1984,"1995 Honda Civic",139.41,48,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,93.89,142.25
+S18_2870,"1999 Indy 500 Monte Carlo SS",125.40,23,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,56.76,132.00
+S18_3685,"1948 Porsche Type 356 Roadster",132.80,36,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,62.16,141.28
+S18_4933,"1957 Ford Thunderbird",62.72,25,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",73.49,37,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,49.24,73.49
+S24_1628,"1966 Shelby Cobra 427 S/C",47.29,23,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,29.18,50.31
+S24_2766,"1949 Jaguar XK 120",82.69,20,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,47.25,90.87
+S24_2887,"1952 Citroen-15CV",108.04,25,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",72.77,20,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,50.51,85.61
+S24_3432,"2002 Chevy Corvette",94.23,30,"Classic Cars",10161,2003-10-17,227,"Heintze Collectables",Århus,Denmark,62.11,107.08
+S18_1342,"1937 Lincoln Berline",87.33,48,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",45.28,45,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,24.26,53.91
+S18_1749,"1917 Grand Touring Sedan",141.10,29,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,86.70,170.00
+S18_2248,"1911 Ford Town Car",53.28,27,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",113.15,38,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",156.94,48,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,72.56,168.75
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",86.51,39,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,43.26,92.03
+S24_1937,"1939 Chevrolet Deluxe Coupe",27.55,37,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",38.98,43,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,20.61,44.80
+S24_3969,"1936 Mercedes Benz 500k Roadster",32.82,37,"Vintage Cars",10162,2003-10-18,321,"Corporate Gift Ideas Co.","San Francisco",USA,21.75,41.03
+S10_1949,"1952 Alpine Renault 1300",212.16,21,"Classic Cars",10163,2003-10-20,424,"Classic Legends Inc.",NYC,USA,98.58,214.30
+S18_2949,"1913 Ford Model T Speedster",101.31,31,"Vintage Cars",10163,2003-10-20,424,"Classic Legends Inc.",NYC,USA,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",59.96,48,"Vintage Cars",10163,2003-10-20,424,"Classic Legends Inc.",NYC,USA,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",101.58,40,"Vintage Cars",10163,2003-10-20,424,"Classic Legends Inc.",NYC,USA,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",80.36,43,"Vintage Cars",10163,2003-10-20,424,"Classic Legends Inc.",NYC,USA,57.54,99.21
+S24_4258,"1936 Chrysler Airflow",96.42,42,"Vintage Cars",10163,2003-10-20,424,"Classic Legends Inc.",NYC,USA,57.46,97.39
+S10_4962,"1962 LanciaA Delta 16V",143.31,21,"Classic Cars",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,103.42,147.74
+S12_1666,"1958 Setra Bus",121.64,49,"Trucks and Buses",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",103.84,36,"Trucks and Buses",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,58.33,116.67
+S18_4600,"1940s Ford truck",107.76,45,"Trucks and Buses",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",46.29,25,"Vintage Cars",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,23.14,50.31
+S32_1268,"1980’s GM Manhattan Express",91.49,24,"Trucks and Buses",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,53.93,96.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",57.53,49,"Trucks and Buses",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,33.61,64.64
+S700_2824,"1982 Camaro Z28",86.99,39,"Classic Cars",10164,2003-10-21,452,"Mini Auto Werke",Graz,Austria,46.53,101.15
+S12_1108,"2001 Ferrari Enzo",168.32,44,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,95.59,207.80
+S12_3148,"1969 Corvair Monza",123.89,34,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,89.14,151.08
+S12_3891,"1969 Ford Falcon",152.26,27,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,83.05,173.02
+S12_4473,"1957 Chevy Pickup",109.02,48,"Trucks and Buses",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",134.26,29,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",120.28,46,"Trucks and Buses",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,74.86,122.73
+S18_2432,"1926 Ford Fire Engine",60.77,31,"Trucks and Buses",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,24.92,60.77
+S18_3232,"1992 Ferrari 360 Spider red",154.10,47,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,77.90,169.34
+S18_3259,"Collectable Wooden Train",84.71,50,Trains,10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,67.56,100.84
+S18_4027,"1970 Triumph Spitfire",123.51,28,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,91.92,143.62
+S24_1444,"1970 Dodge Coronet",46.82,25,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,32.37,57.80
+S24_2300,"1962 Volkswagen Microbus",117.57,32,"Trucks and Buses",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,61.34,127.79
+S24_2840,"1958 Chevy Corvette Limited Edition",31.12,27,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,15.91,35.36
+S24_4048,"1992 Porsche Cayenne Turbo Silver",106.45,24,"Classic Cars",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,69.78,118.28
+S32_2509,"1954 Greyhound Scenicruiser",50.86,48,"Trucks and Buses",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,25.98,54.11
+S32_3207,"1950's Chicago Surface Lines Streetcar",55.30,44,Trains,10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,26.72,62.14
+S50_1392,"Diamond T620 Semi-Skirted Tanker",106.49,48,"Trucks and Buses",10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,68.29,115.75
+S50_1514,"1962 City of Detroit Streetcar",49.21,38,Trains,10165,2003-10-22,148,"Dragon Souveniers, Ltd.",Singapore,Singapore,37.49,58.58
+S18_3140,"1903 Ford Model A",136.59,43,"Vintage Cars",10166,2003-10-21,462,FunGiftIdeas.com,"New Bedford",USA,68.30,136.59
+S18_4522,"1904 Buick Runabout",72.85,26,"Vintage Cars",10166,2003-10-21,462,FunGiftIdeas.com,"New Bedford",USA,52.66,87.77
+S700_1938,"The Mayflower",76.22,29,Ships,10166,2003-10-21,462,FunGiftIdeas.com,"New Bedford",USA,43.30,86.61
+S10_4757,"1972 Alfa Romeo GTA",123.76,44,"Classic Cars",10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,85.68,136.00
+S18_1662,"1980s Black Hawk Helicopter",141.92,43,Planes,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,77.27,157.69
+S18_3029,"1999 Yamaha Speed Boat",69.68,46,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",84.70,34,"Vintage Cars",10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,64.58,105.87
+S24_2011,"18th century schooner",110.60,33,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,82.34,122.89
+S24_2841,"1900s Vintage Bi-Plane",54.81,21,Planes,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,34.25,68.51
+S24_3151,"1912 Ford Model T Delivery Wagon",77.00,20,"Vintage Cars",10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,46.91,88.51
+S24_3420,"1937 Horch 930V Limousine",64.44,32,"Vintage Cars",10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,26.30,65.75
+S24_3816,"1940 Ford Delivery Sedan",73.80,29,"Vintage Cars",10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,48.64,83.86
+S700_1138,"The Schooner Bluenose",66.00,43,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,34.00,66.67
+S700_2047,"HMS Bounty",87.80,29,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,39.83,90.52
+S700_2610,"The USS Constitution Ship",62.16,46,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,33.97,72.28
+S700_3505,"The Titanic",85.14,24,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,51.09,100.17
+S700_3962,"The Queen Mary",83.42,28,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,53.63,99.31
+S72_1253,"Boeing X-32A JSF",42.71,40,Planes,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,32.77,49.66
+S72_3212,"Pont Yacht",43.68,38,Ships,10167,2003-10-23,448,"Scandinavian Gift Ideas",Bräcke,Sweden,33.30,54.60
+S10_1678,"1969 Harley Davidson Ultimate Chopper",94.74,36,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",97.53,27,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",160.74,20,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,91.02,193.66
+S18_2581,"P-51-D Mustang",75.19,21,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,49.00,84.48
+S18_2625,"1936 Harley Davidson El Knucklehead",49.06,46,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,24.23,60.57
+S24_1578,"1997 BMW R 1100 S",103.68,50,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,60.86,112.70
+S24_1785,"1928 British Royal Navy Airplane",93.01,49,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,66.74,109.42
+S24_2000,"1960 BSA Gold Star DBD34",72.36,29,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,37.32,76.17
+S24_3949,"Corsair F4U ( Bird Cage)",57.32,27,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,29.34,68.24
+S24_4278,"1900s Vintage Tri-Plane",68.10,48,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,36.23,72.45
+S32_1374,"1997 BMW F650 ST",89.90,28,Motorcycles,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,66.92,99.89
+S32_4289,"1928 Ford Phaeton Deluxe",57.78,31,"Vintage Cars",10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,33.02,68.79
+S50_1341,"1930 Buick Marquette Phaeton",39.71,48,"Vintage Cars",10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,27.06,43.64
+S700_1691,"American Airlines: B767-300",91.34,28,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,51.15,91.34
+S700_2466,"America West Airlines B757-200",87.75,31,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,68.80,99.72
+S700_2834,"ATA: B757-300",94.92,36,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,59.33,118.65
+S700_3167,"F/A 18 Hornet 1/72",72.00,48,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,54.40,80.00
+S700_4002,"American Airlines: MD-11S",67.37,39,Planes,10168,2003-10-28,161,"Technics Stores Inc.",Burlingame,USA,36.27,74.03
+S12_1099,"1968 Ford Mustang",163.44,30,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,95.34,194.57
+S12_2823,"2002 Suzuki XREO",126.52,35,Motorcycles,10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,66.27,150.62
+S12_3990,"1970 Plymouth Hemi Cuda",71.82,36,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,31.92,79.80
+S18_3278,"1969 Dodge Super Bee",65.13,32,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",136.70,36,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,73.49,146.99
+S18_3782,"1957 Vespa GS150",52.84,38,Motorcycles,10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,32.95,62.17
+S18_4721,"1957 Corvette Convertible",120.53,33,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,69.93,148.80
+S24_2360,"1982 Ducati 900 Monster",66.49,38,Motorcycles,10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,47.10,69.26
+S24_3371,"1971 Alpine Renault 1600s",53.27,34,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,38.58,61.23
+S24_4620,"1961 Chevrolet Impala",77.61,24,"Classic Cars",10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,32.33,80.84
+S32_2206,"1982 Ducati 996 R",37.01,26,Motorcycles,10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",83.68,34,Motorcycles,10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",75.66,48,Motorcycles,10169,2003-11-04,276,"Anna's Decorations, Ltd","North Sydney",Australia,34.17,81.36
+S12_3380,"1968 Dodge Charger",116.27,47,"Classic Cars",10170,2003-11-04,452,"Mini Auto Werke",Graz,Austria,75.16,117.44
+S12_4675,"1969 Dodge Charger",93.28,41,"Classic Cars",10170,2003-11-04,452,"Mini Auto Werke",Graz,Austria,58.73,115.16
+S18_1889,"1948 Porsche 356-A Roadster",70.07,20,"Classic Cars",10170,2003-11-04,452,"Mini Auto Werke",Graz,Austria,53.90,77.00
+S24_3856,"1956 Porsche 356A Coupe",130.60,34,"Classic Cars",10170,2003-11-04,452,"Mini Auto Werke",Graz,Austria,98.30,140.43
+S18_1129,"1993 Mazda RX-7",134.46,35,"Classic Cars",10171,2003-11-05,233,"Québec Home Shopping Network",Montréal,Canada,83.51,141.54
+S18_1984,"1995 Honda Civic",128.03,35,"Classic Cars",10171,2003-11-05,233,"Québec Home Shopping Network",Montréal,Canada,93.89,142.25
+S18_3232,"1992 Ferrari 360 Spider red",165.95,39,"Classic Cars",10171,2003-11-05,233,"Québec Home Shopping Network",Montréal,Canada,77.90,169.34
+S24_2972,"1982 Lamborghini Diablo",34.74,36,"Classic Cars",10171,2003-11-05,233,"Québec Home Shopping Network",Montréal,Canada,16.24,37.76
+S18_1589,"1965 Aston Martin DB5",109.51,42,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,65.96,124.44
+S18_2870,"1999 Indy 500 Monte Carlo SS",117.48,39,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,56.76,132.00
+S18_3685,"1948 Porsche Type 356 Roadster",139.87,48,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,62.16,141.28
+S24_1046,"1970 Chevy Chevelle SS 454",61.00,32,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,49.24,73.49
+S24_1628,"1966 Shelby Cobra 427 S/C",43.27,34,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,29.18,50.31
+S24_2766,"1949 Jaguar XK 120",79.97,22,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,47.25,90.87
+S24_3191,"1969 Chevrolet Camaro Z28",77.91,24,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,50.51,85.61
+S24_3432,"2002 Chevy Corvette",87.81,22,"Classic Cars",10172,2003-11-05,175,"Gift Depot Inc.",Bridgewater,USA,62.11,107.08
+S18_1342,"1937 Lincoln Berline",101.71,43,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",51.75,48,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,24.26,53.91
+S18_1749,"1917 Grand Touring Sedan",168.30,24,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,86.70,170.00
+S18_2248,"1911 Ford Town Car",55.09,26,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",127.13,31,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",140.06,22,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,72.56,168.75
+S18_2957,"1934 Ford V8 Coupe",56.84,28,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",86.92,31,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",90.28,29,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,57.54,99.21
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",77.31,21,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",58.44,39,"Classic Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,34.21,71.27
+S24_1937,"1939 Chevrolet Deluxe Coupe",29.87,31,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",39.42,27,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,20.61,44.80
+S24_2887,"1952 Citroen-15CV",98.65,23,"Classic Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,72.82,117.44
+S24_3969,"1936 Mercedes Benz 500k Roadster",35.70,35,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,21.75,41.03
+S24_4258,"1936 Chrysler Airflow",93.49,22,"Vintage Cars",10173,2003-11-05,278,"Rovelli Gifts",Bergamo,Italy,57.46,97.39
+S10_1949,"1952 Alpine Renault 1300",207.87,34,"Classic Cars",10174,2003-11-06,333,"Australian Gift Network, Co","South Brisbane",Australia,98.58,214.30
+S12_1666,"1958 Setra Bus",113.44,43,"Trucks and Buses",10174,2003-11-06,333,"Australian Gift Network, Co","South Brisbane",Australia,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",108.50,48,"Trucks and Buses",10174,2003-11-06,333,"Australian Gift Network, Co","South Brisbane",Australia,58.33,116.67
+S18_2949,"1913 Ford Model T Speedster",100.30,46,"Vintage Cars",10174,2003-11-06,333,"Australian Gift Network, Co","South Brisbane",Australia,60.78,101.31
+S18_4668,"1939 Cadillac Limousine",44.27,49,"Vintage Cars",10174,2003-11-06,333,"Australian Gift Network, Co","South Brisbane",Australia,23.14,50.31
+S10_4962,"1962 LanciaA Delta 16V",119.67,33,"Classic Cars",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,103.42,147.74
+S12_4473,"1957 Chevy Pickup",109.02,26,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,55.70,118.50
+S18_2319,"1964 Mercedes Tour Bus",101.87,48,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,74.86,122.73
+S18_2432,"1926 Ford Fire Engine",59.55,41,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,24.92,60.77
+S18_3232,"1992 Ferrari 360 Spider red",150.71,29,"Classic Cars",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,77.90,169.34
+S18_4600,"1940s Ford truck",102.92,47,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,84.76,121.08
+S24_2300,"1962 Volkswagen Microbus",121.40,28,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,61.34,127.79
+S24_2840,"1958 Chevy Corvette Limited Edition",32.18,37,"Classic Cars",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,15.91,35.36
+S32_1268,"1980’s GM Manhattan Express",89.57,22,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,53.93,96.31
+S32_2509,"1954 Greyhound Scenicruiser",50.86,50,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,25.98,54.11
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",56.24,29,"Trucks and Buses",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,33.61,64.64
+S700_2824,"1982 Camaro Z28",80.92,42,"Classic Cars",10175,2003-11-06,324,"Stylish Desk Decors, Co.",London,UK,46.53,101.15
+S12_1108,"2001 Ferrari Enzo",166.24,33,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,95.59,207.80
+S12_3148,"1969 Corvair Monza",145.04,47,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,89.14,151.08
+S12_3891,"1969 Ford Falcon",160.91,50,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,83.05,173.02
+S18_2238,"1998 Chrysler Plymouth Prowler",139.17,20,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,101.51,163.73
+S18_4027,"1970 Triumph Spitfire",140.75,36,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,91.92,143.62
+S24_1444,"1970 Dodge Coronet",55.49,27,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,32.37,57.80
+S24_4048,"1992 Porsche Cayenne Turbo Silver",101.72,29,"Classic Cars",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,69.78,118.28
+S32_3207,"1950's Chicago Surface Lines Streetcar",62.14,22,Trains,10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,26.72,62.14
+S50_1392,"Diamond T620 Semi-Skirted Tanker",109.96,23,"Trucks and Buses",10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,68.29,115.75
+S50_1514,"1962 City of Detroit Streetcar",52.14,38,Trains,10176,2003-11-06,386,"L'ordine Souveniers","Reggio Emilia",Italy,37.49,58.58
+S18_3140,"1903 Ford Model A",113.37,23,"Vintage Cars",10177,2003-11-07,344,"CAF Imports",Madrid,Spain,68.30,136.59
+S18_3259,"Collectable Wooden Train",92.77,29,Trains,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,67.56,100.84
+S18_4522,"1904 Buick Runabout",82.50,35,"Vintage Cars",10177,2003-11-07,344,"CAF Imports",Madrid,Spain,52.66,87.77
+S24_2011,"18th century schooner",115.52,50,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,82.34,122.89
+S24_3151,"1912 Ford Model T Delivery Wagon",79.66,45,"Vintage Cars",10177,2003-11-07,344,"CAF Imports",Madrid,Spain,46.91,88.51
+S700_1138,"The Schooner Bluenose",58.67,24,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,34.00,66.67
+S700_1938,"The Mayflower",77.95,31,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,43.30,86.61
+S700_2610,"The USS Constitution Ship",64.33,32,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,33.97,72.28
+S700_3505,"The Titanic",88.15,44,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,51.09,100.17
+S700_3962,"The Queen Mary",83.42,24,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,53.63,99.31
+S72_3212,"Pont Yacht",52.96,40,Ships,10177,2003-11-07,344,"CAF Imports",Madrid,Spain,33.30,54.60
+S10_4757,"1972 Alfa Romeo GTA",131.92,24,"Classic Cars",10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,85.68,136.00
+S18_1662,"1980s Black Hawk Helicopter",127.73,42,Planes,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,77.27,157.69
+S18_3029,"1999 Yamaha Speed Boat",70.54,41,Ships,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",104.81,48,"Vintage Cars",10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,64.58,105.87
+S24_2841,"1900s Vintage Bi-Plane",67.82,34,Planes,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",65.75,27,"Vintage Cars",10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,26.30,65.75
+S24_3816,"1940 Ford Delivery Sedan",68.77,21,"Vintage Cars",10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,48.64,83.86
+S24_3949,"Corsair F4U ( Bird Cage)",64.15,30,Planes,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,29.34,68.24
+S700_2047,"HMS Bounty",86.90,34,Ships,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,39.83,90.52
+S700_2466,"America West Airlines B757-200",91.74,22,Planes,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,68.80,99.72
+S700_4002,"American Airlines: MD-11S",68.11,45,Planes,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,36.27,74.03
+S72_1253,"Boeing X-32A JSF",41.71,45,Planes,10178,2003-11-08,242,"Alpha Cognac",Toulouse,France,32.77,49.66
+S18_2581,"P-51-D Mustang",82.79,24,Planes,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",49.00,84.48
+S24_1785,"1928 British Royal Navy Airplane",105.04,47,Planes,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",66.74,109.42
+S24_4278,"1900s Vintage Tri-Plane",66.65,27,Planes,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",36.23,72.45
+S32_1374,"1997 BMW F650 ST",86.90,45,Motorcycles,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",66.92,99.89
+S32_4289,"1928 Ford Phaeton Deluxe",63.97,24,"Vintage Cars",10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",33.02,68.79
+S50_1341,"1930 Buick Marquette Phaeton",43.20,34,"Vintage Cars",10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",27.06,43.64
+S700_1691,"American Airlines: B767-300",75.81,23,Planes,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",51.15,91.34
+S700_2834,"ATA: B757-300",98.48,25,Planes,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",59.33,118.65
+S700_3167,"F/A 18 Hornet 1/72",80.00,39,Planes,10179,2003-11-11,496,"Kelly's Gift Shop","Auckland  ","New Zealand",54.40,80.00
+S10_1678,"1969 Harley Davidson Ultimate Chopper",76.56,29,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",99.91,42,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",164.61,41,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,91.02,193.66
+S12_2823,"2002 Suzuki XREO",131.04,40,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,66.27,150.62
+S18_2625,"1936 Harley Davidson El Knucklehead",48.46,25,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,24.23,60.57
+S18_3782,"1957 Vespa GS150",59.06,21,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,32.95,62.17
+S18_4721,"1957 Corvette Convertible",147.31,44,"Classic Cars",10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,69.93,148.80
+S24_1578,"1997 BMW R 1100 S",98.05,48,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,60.86,112.70
+S24_2000,"1960 BSA Gold Star DBD34",61.70,28,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,37.32,76.17
+S24_2360,"1982 Ducati 900 Monster",60.95,35,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,47.10,69.26
+S24_4620,"1961 Chevrolet Impala",68.71,28,"Classic Cars",10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,32.33,80.84
+S32_2206,"1982 Ducati 996 R",33.39,34,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",102.05,22,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",74.85,21,Motorcycles,10180,2003-11-11,171,"Daedalus Designs Imports",Lille,France,34.17,81.36
+S12_1099,"1968 Ford Mustang",155.66,27,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",95.34,194.57
+S12_3380,"1968 Dodge Charger",113.92,28,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",67.03,20,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",31.92,79.80
+S12_4675,"1969 Dodge Charger",107.10,36,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",58.73,115.16
+S18_1129,"1993 Mazda RX-7",124.56,44,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",83.51,141.54
+S18_1589,"1965 Aston Martin DB5",124.44,42,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",65.96,124.44
+S18_1889,"1948 Porsche 356-A Roadster",74.69,22,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",53.90,77.00
+S18_1984,"1995 Honda Civic",129.45,21,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",93.89,142.25
+S18_2870,"1999 Indy 500 Monte Carlo SS",130.68,27,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",56.76,132.00
+S18_3232,"1992 Ferrari 360 Spider red",147.33,45,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",77.90,169.34
+S18_3278,"1969 Dodge Super Bee",73.17,30,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",49.05,80.41
+S18_3482,"1976 Ford Gran Torino",120.53,22,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",73.49,146.99
+S18_3685,"1948 Porsche Type 356 Roadster",137.04,39,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",62.16,141.28
+S24_1628,"1966 Shelby Cobra 427 S/C",45.28,34,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",29.18,50.31
+S24_2972,"1982 Lamborghini Diablo",32.85,37,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",16.24,37.76
+S24_3371,"1971 Alpine Renault 1600s",54.49,23,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",38.58,61.23
+S24_3856,"1956 Porsche 356A Coupe",122.17,25,"Classic Cars",10181,2003-11-12,167,"Herkku Gifts",Bergen,"Norway  ",98.30,140.43
+S18_1342,"1937 Lincoln Berline",83.22,25,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",44.21,32,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,24.26,53.91
+S18_1749,"1917 Grand Touring Sedan",159.80,44,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,86.70,170.00
+S18_2248,"1911 Ford Town Car",54.49,38,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",105.52,20,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",135.00,21,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,72.56,168.75
+S18_3320,"1917 Maxwell Touring Car",86.31,33,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,57.54,99.21
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",88.35,36,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",61.29,44,"Classic Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",63.20,47,"Classic Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,49.24,73.49
+S24_1937,"1939 Chevrolet Deluxe Coupe",31.86,39,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",39.87,31,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,20.61,44.80
+S24_2766,"1949 Jaguar XK 120",87.24,36,"Classic Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,47.25,90.87
+S24_2887,"1952 Citroen-15CV",116.27,20,"Classic Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",73.62,33,"Classic Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,50.51,85.61
+S24_3432,"2002 Chevy Corvette",95.30,49,"Classic Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,62.11,107.08
+S24_3969,"1936 Mercedes Benz 500k Roadster",34.88,23,"Vintage Cars",10182,2003-11-12,124,"Mini Gifts Distributors Ltd.","San Rafael",USA,21.75,41.03
+S10_1949,"1952 Alpine Renault 1300",180.01,23,"Classic Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,98.58,214.30
+S10_4962,"1962 LanciaA Delta 16V",127.06,28,"Classic Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,103.42,147.74
+S12_1666,"1958 Setra Bus",114.80,41,"Trucks and Buses",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",108.50,21,"Trucks and Buses",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,58.33,116.67
+S18_2949,"1913 Ford Model T Speedster",91.18,37,"Vintage Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",51.22,39,"Vintage Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",90.06,22,"Vintage Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,60.74,104.72
+S18_4600,"1940s Ford truck",118.66,21,"Trucks and Buses",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",42.26,40,"Vintage Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,23.14,50.31
+S24_4258,"1936 Chrysler Airflow",81.81,47,"Vintage Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,57.46,97.39
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",52.36,49,"Trucks and Buses",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,33.61,64.64
+S700_2824,"1982 Camaro Z28",85.98,23,"Classic Cars",10183,2003-11-13,339,"Classic Gift Ideas, Inc",Philadelphia,USA,46.53,101.15
+S12_4473,"1957 Chevy Pickup",105.47,37,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",145.72,46,"Classic Cars",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",119.05,46,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,74.86,122.73
+S18_2432,"1926 Ford Fire Engine",60.77,44,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,24.92,60.77
+S18_3232,"1992 Ferrari 360 Spider red",165.95,28,"Classic Cars",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,77.90,169.34
+S24_1444,"1970 Dodge Coronet",57.22,31,"Classic Cars",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,32.37,57.80
+S24_2300,"1962 Volkswagen Microbus",117.57,24,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,61.34,127.79
+S24_2840,"1958 Chevy Corvette Limited Edition",30.06,42,"Classic Cars",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,15.91,35.36
+S24_4048,"1992 Porsche Cayenne Turbo Silver",114.73,49,"Classic Cars",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,69.78,118.28
+S32_1268,"1980’s GM Manhattan Express",84.75,46,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,53.93,96.31
+S32_2509,"1954 Greyhound Scenicruiser",52.49,33,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,25.98,54.11
+S32_3207,"1950's Chicago Surface Lines Streetcar",59.03,48,Trains,10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,26.72,62.14
+S50_1392,"Diamond T620 Semi-Skirted Tanker",92.60,45,"Trucks and Buses",10184,2003-11-14,484,"Iberia Gift Imports, Corp.",Sevilla,Spain,68.29,115.75
+S12_1108,"2001 Ferrari Enzo",195.33,21,"Classic Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,95.59,207.80
+S12_3148,"1969 Corvair Monza",146.55,33,"Classic Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,89.14,151.08
+S12_3891,"1969 Ford Falcon",147.07,43,"Classic Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,83.05,173.02
+S18_3140,"1903 Ford Model A",124.30,28,"Vintage Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,68.30,136.59
+S18_3259,"Collectable Wooden Train",94.79,49,Trains,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,67.56,100.84
+S18_4027,"1970 Triumph Spitfire",127.82,39,"Classic Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,91.92,143.62
+S18_4522,"1904 Buick Runabout",87.77,47,"Vintage Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,52.66,87.77
+S24_2011,"18th century schooner",105.69,30,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,82.34,122.89
+S24_3151,"1912 Ford Model T Delivery Wagon",83.20,33,"Vintage Cars",10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,46.91,88.51
+S50_1514,"1962 City of Detroit Streetcar",46.86,20,Trains,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,37.49,58.58
+S700_1138,"The Schooner Bluenose",64.67,21,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,34.00,66.67
+S700_1938,"The Mayflower",79.68,30,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,43.30,86.61
+S700_2610,"The USS Constitution Ship",61.44,39,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,33.97,72.28
+S700_3505,"The Titanic",99.17,37,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,51.09,100.17
+S700_3962,"The Queen Mary",93.35,22,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,53.63,99.31
+S72_3212,"Pont Yacht",47.50,28,Ships,10185,2003-11-14,320,"Mini Creations Ltd.","New Bedford",USA,33.30,54.60
+S10_4757,"1972 Alfa Romeo GTA",108.80,26,"Classic Cars",10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,85.68,136.00
+S18_1662,"1980s Black Hawk Helicopter",137.19,32,Planes,10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,77.27,157.69
+S18_3029,"1999 Yamaha Speed Boat",73.12,32,Ships,10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",98.46,46,"Vintage Cars",10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,64.58,105.87
+S24_2841,"1900s Vintage Bi-Plane",60.29,22,Planes,10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",59.83,21,"Vintage Cars",10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,26.30,65.75
+S24_3816,"1940 Ford Delivery Sedan",68.77,36,"Vintage Cars",10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,48.64,83.86
+S700_2047,"HMS Bounty",80.56,24,Ships,10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,39.83,90.52
+S72_1253,"Boeing X-32A JSF",42.71,28,Planes,10186,2003-11-14,489,"Double Decker Gift Stores, Ltd",London,UK,32.77,49.66
+S18_2581,"P-51-D Mustang",70.12,45,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",49.00,84.48
+S24_1785,"1928 British Royal Navy Airplane",96.29,46,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",66.74,109.42
+S24_3949,"Corsair F4U ( Bird Cage)",55.96,43,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",29.34,68.24
+S24_4278,"1900s Vintage Tri-Plane",64.48,33,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",36.23,72.45
+S32_4289,"1928 Ford Phaeton Deluxe",61.22,31,"Vintage Cars",10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",33.02,68.79
+S50_1341,"1930 Buick Marquette Phaeton",39.71,41,"Vintage Cars",10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",27.06,43.64
+S700_1691,"American Airlines: B767-300",84.95,34,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",51.15,91.34
+S700_2466,"America West Airlines B757-200",95.73,44,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",68.80,99.72
+S700_3167,"F/A 18 Hornet 1/72",72.00,34,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",54.40,80.00
+S700_4002,"American Airlines: MD-11S",70.33,44,Planes,10187,2003-11-15,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",36.27,74.03
+S10_1678,"1969 Harley Davidson Ultimate Chopper",95.70,48,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",111.80,38,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",182.04,45,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",91.02,193.66
+S18_2625,"1936 Harley Davidson El Knucklehead",52.09,32,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",24.23,60.57
+S24_1578,"1997 BMW R 1100 S",95.80,25,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",60.86,112.70
+S24_2000,"1960 BSA Gold Star DBD34",61.70,40,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",37.32,76.17
+S32_1374,"1997 BMW F650 ST",81.91,44,Motorcycles,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",66.92,99.89
+S700_2834,"ATA: B757-300",96.11,29,Planes,10188,2003-11-18,167,"Herkku Gifts",Bergen,"Norway  ",59.33,118.65
+S12_2823,"2002 Suzuki XREO",138.57,28,Motorcycles,10189,2003-11-18,205,Toys4GrownUps.com,Pasadena,USA,66.27,150.62
+S24_2360,"1982 Ducati 900 Monster",58.87,42,Motorcycles,10190,2003-11-19,141,"Euro+ Shopping Channel",Madrid,Spain,47.10,69.26
+S32_2206,"1982 Ducati 996 R",38.62,46,Motorcycles,10190,2003-11-19,141,"Euro+ Shopping Channel",Madrid,Spain,24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",89.80,42,Motorcycles,10190,2003-11-19,141,"Euro+ Shopping Channel",Madrid,Spain,56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",67.53,40,Motorcycles,10190,2003-11-19,141,"Euro+ Shopping Channel",Madrid,Spain,34.17,81.36
+S12_1099,"1968 Ford Mustang",155.66,21,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,95.34,194.57
+S12_3380,"1968 Dodge Charger",104.52,40,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",70.22,30,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,31.92,79.80
+S18_3278,"1969 Dodge Super Bee",75.59,36,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",119.06,23,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,73.49,146.99
+S18_3782,"1957 Vespa GS150",60.93,43,Motorcycles,10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,32.95,62.17
+S18_4721,"1957 Corvette Convertible",136.90,32,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,69.93,148.80
+S24_3371,"1971 Alpine Renault 1600s",53.27,48,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,38.58,61.23
+S24_4620,"1961 Chevrolet Impala",77.61,44,"Classic Cars",10191,2003-11-20,259,"Toms Spezialitäten, Ltd",Köln,Germany,32.33,80.84
+S12_4675,"1969 Dodge Charger",99.04,27,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,58.73,115.16
+S18_1129,"1993 Mazda RX-7",140.12,22,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,83.51,141.54
+S18_1589,"1965 Aston Martin DB5",100.80,29,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,65.96,124.44
+S18_1889,"1948 Porsche 356-A Roadster",70.84,45,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,53.90,77.00
+S18_1984,"1995 Honda Civic",128.03,47,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,93.89,142.25
+S18_2870,"1999 Indy 500 Monte Carlo SS",110.88,38,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,56.76,132.00
+S18_3232,"1992 Ferrari 360 Spider red",137.17,26,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,77.90,169.34
+S18_3685,"1948 Porsche Type 356 Roadster",125.74,45,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,62.16,141.28
+S24_1046,"1970 Chevy Chevelle SS 454",72.02,37,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,49.24,73.49
+S24_1628,"1966 Shelby Cobra 427 S/C",49.30,47,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,29.18,50.31
+S24_2766,"1949 Jaguar XK 120",86.33,46,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,47.25,90.87
+S24_2887,"1952 Citroen-15CV",112.74,23,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,72.82,117.44
+S24_2972,"1982 Lamborghini Diablo",33.23,30,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,16.24,37.76
+S24_3191,"1969 Chevrolet Camaro Z28",69.34,32,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,50.51,85.61
+S24_3432,"2002 Chevy Corvette",93.16,46,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,62.11,107.08
+S24_3856,"1956 Porsche 356A Coupe",112.34,45,"Classic Cars",10192,2003-11-20,363,"Online Diecast Creations Co.",Nashua,USA,98.30,140.43
+S18_1342,"1937 Lincoln Berline",92.47,28,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",46.36,46,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,24.26,53.91
+S18_1749,"1917 Grand Touring Sedan",153.00,21,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,86.70,170.00
+S18_2248,"1911 Ford Town Car",60.54,42,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",115.69,44,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,58.48,127.13
+S18_2795,"1928 Mercedes-Benz SSK",143.44,22,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,72.56,168.75
+S18_2949,"1913 Ford Model T Speedster",87.13,28,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,60.78,101.31
+S18_2957,"1934 Ford V8 Coupe",53.09,24,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,34.35,62.46
+S18_3136,"18th Century Vintage Horse Carriage",97.39,23,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,60.74,104.72
+S18_3320,"1917 Maxwell Touring Car",79.37,32,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,57.54,99.21
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",92.03,24,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",66.28,25,"Classic Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,34.21,71.27
+S24_1937,"1939 Chevrolet Deluxe Coupe",32.19,26,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",44.80,20,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,20.61,44.80
+S24_3969,"1936 Mercedes Benz 500k Roadster",38.16,22,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,21.75,41.03
+S24_4258,"1936 Chrysler Airflow",92.52,20,"Vintage Cars",10193,2003-11-21,471,"Australian Collectables, Ltd","Glen Waverly",Australia,57.46,97.39
+S10_1949,"1952 Alpine Renault 1300",203.59,42,"Classic Cars",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,98.58,214.30
+S10_4962,"1962 LanciaA Delta 16V",134.44,26,"Classic Cars",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,103.42,147.74
+S12_1666,"1958 Setra Bus",124.37,38,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,77.90,136.67
+S18_1097,"1940 Ford Pickup Truck",103.84,21,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,58.33,116.67
+S18_2432,"1926 Ford Fire Engine",51.05,45,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,24.92,60.77
+S18_4600,"1940s Ford truck",113.82,32,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,84.76,121.08
+S18_4668,"1939 Cadillac Limousine",47.79,41,"Vintage Cars",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,23.14,50.31
+S24_2300,"1962 Volkswagen Microbus",112.46,49,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,61.34,127.79
+S32_1268,"1980’s GM Manhattan Express",77.05,37,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,53.93,96.31
+S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",61.41,39,"Trucks and Buses",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,33.61,64.64
+S700_2824,"1982 Camaro Z28",80.92,26,"Classic Cars",10194,2003-11-25,146,"Saveley & Henriot, Co.",Lyon,France,46.53,101.15
+S12_4473,"1957 Chevy Pickup",118.50,49,"Trucks and Buses",10195,2003-11-25,319,"Mini Classics","White Plains",USA,55.70,118.50
+S18_2238,"1998 Chrysler Plymouth Prowler",139.17,27,"Classic Cars",10195,2003-11-25,319,"Mini Classics","White Plains",USA,101.51,163.73
+S18_2319,"1964 Mercedes Tour Bus",112.91,35,"Trucks and Buses",10195,2003-11-25,319,"Mini Classics","White Plains",USA,74.86,122.73
+S18_3232,"1992 Ferrari 360 Spider red",150.71,50,"Classic Cars",10195,2003-11-25,319,"Mini Classics","White Plains",USA,77.90,169.34
+S24_1444,"1970 Dodge Coronet",54.33,44,"Classic Cars",10195,2003-11-25,319,"Mini Classics","White Plains",USA,32.37,57.80
+S24_2840,"1958 Chevy Corvette Limited Edition",31.82,32,"Classic Cars",10195,2003-11-25,319,"Mini Classics","White Plains",USA,15.91,35.36
+S24_4048,"1992 Porsche Cayenne Turbo Silver",95.81,34,"Classic Cars",10195,2003-11-25,319,"Mini Classics","White Plains",USA,69.78,118.28
+S32_2509,"1954 Greyhound Scenicruiser",51.95,32,"Trucks and Buses",10195,2003-11-25,319,"Mini Classics","White Plains",USA,25.98,54.11
+S32_3207,"1950's Chicago Surface Lines Streetcar",59.03,33,Trains,10195,2003-11-25,319,"Mini Classics","White Plains",USA,26.72,62.14
+S50_1392,"Diamond T620 Semi-Skirted Tanker",97.23,49,"Trucks and Buses",10195,2003-11-25,319,"Mini Classics","White Plains",USA,68.29,115.75
+S12_1108,"2001 Ferrari Enzo",203.64,47,"Classic Cars",10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,95.59,207.80
+S12_3148,"1969 Corvair Monza",151.08,24,"Classic Cars",10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,89.14,151.08
+S12_3891,"1969 Ford Falcon",147.07,38,"Classic Cars",10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,83.05,173.02
+S18_3140,"1903 Ford Model A",127.03,49,"Vintage Cars",10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,68.30,136.59
+S18_3259,"Collectable Wooden Train",81.68,35,Trains,10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,67.56,100.84
+S18_4027,"1970 Triumph Spitfire",126.39,27,"Classic Cars",10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,91.92,143.62
+S50_1514,"1962 City of Detroit Streetcar",56.82,46,Trains,10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,37.49,58.58
+S700_1938,"The Mayflower",84.88,50,Ships,10196,2003-11-26,455,"Super Scale Inc.","New Haven",USA,43.30,86.61
+S10_4757,"1972 Alfa Romeo GTA",118.32,45,"Classic Cars",10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,85.68,136.00
+S18_3029,"1999 Yamaha Speed Boat",83.44,46,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,51.61,86.02
+S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",85.75,22,"Vintage Cars",10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,64.58,105.87
+S18_4522,"1904 Buick Runabout",78.99,50,"Vintage Cars",10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,52.66,87.77
+S24_2011,"18th century schooner",109.37,41,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,82.34,122.89
+S24_3151,"1912 Ford Model T Delivery Wagon",83.20,47,"Vintage Cars",10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,46.91,88.51
+S24_3816,"1940 Ford Delivery Sedan",67.93,22,"Vintage Cars",10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,48.64,83.86
+S700_1138,"The Schooner Bluenose",60.00,23,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,34.00,66.67
+S700_2047,"HMS Bounty",78.75,24,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,39.83,90.52
+S700_2610,"The USS Constitution Ship",66.50,50,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,33.97,72.28
+S700_3505,"The Titanic",100.17,27,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,51.09,100.17
+S700_3962,"The Queen Mary",88.39,35,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,53.63,99.31
+S72_1253,"Boeing X-32A JSF",39.73,29,Planes,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,32.77,49.66
+S72_3212,"Pont Yacht",48.59,42,Ships,10197,2003-11-26,216,"Enaco Distributors",Barcelona,Spain,33.30,54.60
+S18_1662,"1980s Black Hawk Helicopter",149.81,42,Planes,10198,2003-11-27,385,"Cruz & Sons Co.","Makati City",Philippines,77.27,157.69
+S24_2841,"1900s Vintage Bi-Plane",60.97,48,Planes,10198,2003-11-27,385,"Cruz & Sons Co.","Makati City",Philippines,34.25,68.51
+S24_3420,"1937 Horch 930V Limousine",61.81,27,"Vintage Cars",10198,2003-11-27,385,"Cruz & Sons Co.","Makati City",Philippines,26.30,65.75
+S24_3949,"Corsair F4U ( Bird Cage)",65.51,43,Planes,10198,2003-11-27,385,"Cruz & Sons Co.","Makati City",Philippines,29.34,68.24
+S700_2466,"America West Airlines B757-200",94.73,42,Planes,10198,2003-11-27,385,"Cruz & Sons Co.","Makati City",Philippines,68.80,99.72
+S700_4002,"American Airlines: MD-11S",74.03,40,Planes,10198,2003-11-27,385,"Cruz & Sons Co.","Makati City",Philippines,36.27,74.03
+S50_1341,"1930 Buick Marquette Phaeton",37.97,29,"Vintage Cars",10199,2003-12-01,475,"West Coast Collectables Co.",Burbank,USA,27.06,43.64
+S700_1691,"American Airlines: B767-300",81.29,48,Planes,10199,2003-12-01,475,"West Coast Collectables Co.",Burbank,USA,51.15,91.34
+S700_3167,"F/A 18 Hornet 1/72",70.40,38,Planes,10199,2003-12-01,475,"West Coast Collectables Co.",Burbank,USA,54.40,80.00
+S18_2581,"P-51-D Mustang",74.34,28,Planes,10200,2003-12-01,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",49.00,84.48
+S24_1785,"1928 British Royal Navy Airplane",99.57,33,Planes,10200,2003-12-01,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",66.74,109.42
+S24_4278,"1900s Vintage Tri-Plane",70.28,39,Planes,10200,2003-12-01,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",36.23,72.45
+S32_1374,"1997 BMW F650 ST",80.91,35,Motorcycles,10200,2003-12-01,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",66.92,99.89
+S32_4289,"1928 Ford Phaeton Deluxe",65.35,27,"Vintage Cars",10200,2003-12-01,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",33.02,68.79
+S700_2834,"ATA: B757-300",115.09,39,Planes,10200,2003-12-01,211,"King Kong Collectables, Co.","Central Hong Kong","Hong Kong",59.33,118.65
+S10_1678,"1969 Harley Davidson Ultimate Chopper",82.30,22,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,48.81,95.70
+S10_2016,"1996 Moto Guzzi 1100i",116.56,24,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,68.99,118.94
+S10_4698,"2003 Harley-Davidson Eagle Drag Bike",191.72,49,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,91.02,193.66
+S12_2823,"2002 Suzuki XREO",126.52,25,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,66.27,150.62
+S18_2625,"1936 Harley Davidson El Knucklehead",48.46,30,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,24.23,60.57
+S24_1578,"1997 BMW R 1100 S",93.54,39,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,60.86,112.70
+S24_2000,"1960 BSA Gold Star DBD34",66.27,25,Motorcycles,10201,2003-12-01,129,"Mini Wheels Co.","San Francisco",USA,37.32,76.17
+S18_3782,"1957 Vespa GS150",55.33,30,Motorcycles,10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",32.95,62.17
+S18_4721,"1957 Corvette Convertible",124.99,43,"Classic Cars",10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",69.93,148.80
+S24_2360,"1982 Ducati 900 Monster",56.10,50,Motorcycles,10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",47.10,69.26
+S24_4620,"1961 Chevrolet Impala",75.18,50,"Classic Cars",10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",32.33,80.84
+S32_2206,"1982 Ducati 996 R",33.39,27,Motorcycles,10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",24.14,40.23
+S32_4485,"1974 Ducati 350 Mk3 Desmo",81.64,31,Motorcycles,10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",56.13,102.05
+S50_4713,"2002 Yamaha YZR M1",79.73,40,Motorcycles,10202,2003-12-02,357,GiftsForHim.com,Auckland,"New Zealand",34.17,81.36
+S12_1099,"1968 Ford Mustang",161.49,20,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,95.34,194.57
+S12_3380,"1968 Dodge Charger",111.57,20,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,75.16,117.44
+S12_3990,"1970 Plymouth Hemi Cuda",63.84,44,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,31.92,79.80
+S12_4675,"1969 Dodge Charger",115.16,47,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,58.73,115.16
+S18_1889,"1948 Porsche 356-A Roadster",73.15,45,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,53.90,77.00
+S18_3232,"1992 Ferrari 360 Spider red",157.49,48,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,77.90,169.34
+S18_3278,"1969 Dodge Super Bee",66.74,33,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,49.05,80.41
+S18_3482,"1976 Ford Gran Torino",127.88,32,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,73.49,146.99
+S24_2972,"1982 Lamborghini Diablo",33.23,21,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,16.24,37.76
+S24_3371,"1971 Alpine Renault 1600s",56.94,34,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,38.58,61.23
+S24_3856,"1956 Porsche 356A Coupe",140.43,47,"Classic Cars",10203,2003-12-02,141,"Euro+ Shopping Channel",Madrid,Spain,98.30,140.43
+S18_1129,"1993 Mazda RX-7",114.65,42,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,83.51,141.54
+S18_1589,"1965 Aston Martin DB5",113.24,40,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,65.96,124.44
+S18_1749,"1917 Grand Touring Sedan",153.00,33,"Vintage Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,86.70,170.00
+S18_1984,"1995 Honda Civic",133.72,38,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,93.89,142.25
+S18_2248,"1911 Ford Town Car",59.33,23,"Vintage Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,33.30,60.54
+S18_2325,"1932 Model A Ford J-Coupe",119.50,26,"Vintage Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,58.48,127.13
+S18_2870,"1999 Indy 500 Monte Carlo SS",106.92,27,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,56.76,132.00
+S18_3685,"1948 Porsche Type 356 Roadster",132.80,35,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,62.16,141.28
+S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",83.75,29,"Vintage Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,43.26,92.03
+S18_4933,"1957 Ford Thunderbird",69.84,45,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,34.21,71.27
+S24_1046,"1970 Chevy Chevelle SS 454",69.82,20,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,49.24,73.49
+S24_1628,"1966 Shelby Cobra 427 S/C",46.79,45,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,29.18,50.31
+S24_2766,"1949 Jaguar XK 120",79.06,47,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,47.25,90.87
+S24_2887,"1952 Citroen-15CV",112.74,42,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,72.82,117.44
+S24_3191,"1969 Chevrolet Camaro Z28",84.75,40,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,50.51,85.61
+S24_3432,"2002 Chevy Corvette",104.94,48,"Classic Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,62.11,107.08
+S24_3969,"1936 Mercedes Benz 500k Roadster",34.88,39,"Vintage Cars",10204,2003-12-02,151,"Muscle Machine Inc",NYC,USA,21.75,41.03
+S18_1342,"1937 Lincoln Berline",98.63,36,"Vintage Cars",10205,2003-12-03,141,"Euro+ Shopping Channel",Madrid,Spain,60.62,102.74
+S18_1367,"1936 Mercedes-Benz 500K Special Roadster",45.82,48,"Vintage Cars",10205,2003-12-03,141,"Euro+ Shopping Channel",Madrid,Spain,24.26,53.91
+S18_2795,"1928 Mercedes-Benz SSK",138.38,40,"Vintage Cars",10205,2003-12-03,141,"Euro+ Shopping Channel",Madrid,Spain,72.56,168.75
+S24_1937,"1939 Chevrolet Deluxe Coupe",27.88,32,"Vintage Cars",10205,2003-12-03,141,"Euro+ Shopping Channel",Madrid,Spain,22.57,33.19
+S24_2022,"1938 Cadillac V-16 Presidential Limousine",36.74,24,"Vintage Cars",10205,2003-12-03,141,"Euro+ Shopping Channel",Madrid,Spain,20.61,44.80
