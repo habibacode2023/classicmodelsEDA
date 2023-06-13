@@ -14,3 +14,28 @@ JOIN classicmodels.orderdetails
 ON classicmodels.products. productCode = classicmodels.orderdetails. productCode
 JOIN classicmodels.orders ON classicmodels.orderdetails.orderNumber=classicmodels.orders.orderNumber
 JOIN classicmodels.customers ON classicmodels.orders.customerNumber= classicmodels.customers.customerNumber;
+
+
+
+SELECT productLine, SUM(quantityOrdered * priceEach) AS totalRevenue
+FROM my_table
+GROUP BY productLine 
+Order by totalRevenue desc;
+
+
+SELECT SUM(totalRevenue) AS sumTotalRevenue
+FROM (
+  SELECT productLine, SUM(quantityOrdered * priceEach) AS totalRevenue
+  FROM my_table
+  GROUP BY productLine
+) subquery;
+
+
+select employeeNumber, count(*) as total_orders_managed, sum(quantityOrdered) as total_products_ordered_under
+from orders o
+join customers c on o.customerNumber = c.customerNumber
+join employees e on c.salesRepEmployeeNumber = e.employeeNumber
+join orderdetails o2 on o.orderNumber = o2.orderNumber
+group by employeeNumber
+order by total_orders_managed desc
+limit 3;
