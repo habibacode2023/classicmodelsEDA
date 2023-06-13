@@ -2,3 +2,15 @@ https://medium.datadriveninvestor.com/unlocking-business-insights-with-sql-a-dee
 https://github.com/darklord-57/darklord/blob/main/sql_projects/classic_models_project/data_analysis.sql
 https://www.kaggle.com/code/martatavares/classicmodels-database
 https://medium.com/@moyosoreoluboyede/data-analysis-and-exploration-using-sql-mysql-workbench-and-power-bi-932c7e5247a3
+
+
+
+
+SELECT products.productCode, products.productName,orderdetails.priceEach, orderdetails.quantityOrdered,
+products.productLine, orderdetails.orderNumber, orders.orderdate,orders.customerNumber,
+customers.customerName,customers.city,customers.country, products.buyPrice,products.MSRP
+FROM classicmodels.products
+JOIN classicmodels.orderdetails
+ON classicmodels.products. productCode = classicmodels.orderdetails. productCode
+JOIN classicmodels.orders ON classicmodels.orderdetails.orderNumber=classicmodels.orders.orderNumber
+JOIN classicmodels.customers ON classicmodels.orders.customerNumber= classicmodels.customers.customerNumber;
